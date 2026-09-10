@@ -26,6 +26,10 @@ http://185.9.2.18/chid_205/index.m3u8
 #EXTINF:-1 tvg-country="MA" group-title="🇲🇦 Maroc" tvg-chno="8" tvg-name="Arryadia" tvg-id="Arryadia" tvg-logo="https://i.imgur.com/XjzK3gZ.png",Arryadia
 http://149.100.11.252:8000/play/a065/index.m3u8
 
+# 🟠
+#EXTINF:-1 tvg-country="MA" group-title="🇲🇦 Maroc" tvg-chno="9" tvg-name="Al Aoula International" tvg-id="Al Aoula International" tvg-logo="https://i.imgur.com/nq53d2N.png",Al Aoula International
+https://cdn-globecast.akamaized.net/live/eds/al_aoula_inter/hls_snrt/al_aoula_inter.m3u8
+
 # ======= 🇺🇸 USA =======
 # 🟢
 #EXTINF:-1 tvg-country="US" group-title="🇺🇸 USA" tvg-chno="1" tvg-name="CNN" tvg-id="CNN" tvg-logo="https://i.imgur.com/vyrc1I1.png",CNN
