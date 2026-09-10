@@ -207,7 +207,7 @@ https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr-2/754931856515075b0a
 # ======= 🇸🇦 KSA =======
 # 🟠
 #EXTINF:-1 tvg-country="SA" group-title="🇸🇦 KSA" tvg-chno="1" tvg-name="Al Quran Al Kareem TV" tvg-id="Al Quran Al Kareem TV" tvg-logo="https://i.imgur.com/A2fJysM.png",Al Quran Al Kareem TV
-https://al-ekhbaria-prod-dub.shahid.net/out/v1/9885cab0a3ec4008b53bae57a27ca76b/index.m3u8
+http://m.live.net.sa:1935/live/quran/playlist.m3u8
 # 🟢
 #EXTINF:-1 tvg-country="SA" group-title="🇸🇦 KSA" tvg-chno="2" tvg-name="Al Sunnah Al Nabawiyah TV" tvg-id="Al Sunnah Al Nabawiyah TV" tvg-logo="https://i.imgur.com/S6LcTJv.png",Al Sunnah Al Nabawiyah TV
 http://m.live.net.sa:1935/live/sunnah/gmswf.m3u8
@@ -249,22 +249,22 @@ https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
 # 🟢
 #EXTINF:-1 tvg-country="AE" group-title="Arabic News" tvg-chno="7" tvg-name="Al Arabiya Business" tvg-id="Al Arabiya Business" tvg-logo="https://shahid.mbc.net/mediaObject/73142189-aeca-4f65-8977-d769c91e2573?height=auto&width=600&croppingPoint=&version=1&type=png",Al Arabiya Business
 https://live.alarabiya.net/alarabiapublish/aswaaq.smil/playlist.m3u8
-# 🟠
+# 🟢
 #EXTINF:-1 tvg-country="UK" group-title="Arabic News" tvg-chno="8" tvg-name="BBC Arabic" tvg-id="BBC Arabic" tvg-logo="https://i.imgur.com/ScyTG6P.png",BBC Arabic
 https://vs-hls-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2.m3u8
-# 🟠
+# 🟢
 #EXTINF:-1 tvg-country="UK" group-title="Arabic News" tvg-chno="9" tvg-name="SkyNews Arabia" tvg-id="SkyNews Arabia" tvg-logo="https://i.imgur.com/SvjU4h6.png",SkyNews Arabia
 https://live-stream.skynewsarabia.com/c-horizontal-channel/horizontal-stream/index.m3u8
-# 🟠
+# 🟢
 #EXTINF:-1 tvg-country="USA" group-title="Arabic News" tvg-chno="10" tvg-name="CNBC Arabiya" tvg-id="CNBC Arabiya" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/CNBC_Arabia_2025.svg/960px-CNBC_Arabia_2025.svg.png",CNBC Arabiya
 https://cnbc-live.akamaized.net/cnbc/master.m3u8
-# 🟠
+# 🟢
 #EXTINF:-1 tvg-country="RU" group-title="Arabic News" tvg-chno="11" tvg-name="RT Arabic" tvg-id="RT Arabic" tvg-logo="https://i.imgur.com/G8vGrn1.png",RT Arabic
 https://rt-arb.rttv.com/dvr/rtarab/playlist.m3u8
-# 🟠
+# 🟢
 #EXTINF:-1 tvg-country="DE" group-title="Arabic News" tvg-chno="12" tvg-name="DW Arabic" tvg-id="DW Arabic" tvg-logo="https://i.imgur.com/8MRNFb9.png",DW Arabic
 https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/master.m3u8
-# 🟠
+# 🟢
 #EXTINF:-1 tvg-country="FR" group-title="Arabic News" tvg-chno="13" tvg-name="France24 Arabic" tvg-id="France24 Arabic" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_FRANCE_24/images/LOGO_HD/image.png",France24 Arabic
 https://live.france24.com/hls/live/2037222-b/F24_AR_HI_HLS/master_5000.m3u8
 
