@@ -199,90 +199,110 @@ https://cnbc-live.akamaized.net/cnbc/master.m3u8
 #EXTINF:-1 tvg-id="RTArabic.ru@SD" tvg-logo="https://i.imgur.com/G8vGrn1.png" group-title="News",RT Arabic
 https://rt-arb.rttv.com/dvr/rtarab/playlist.m3u8
 
-# ==================================================
-#  🎵 Rotana
-# ==================================================
 
 
-#  🟠 .... - Group = .... - Country = ....
-#EXTINF:-1 group-title="🎵 Rotana" tvg-id="Rotana Cinema Egypt" tvg-logo="https://i.imgur.com/dGlKoLW.png",Rotana Cinema Egypt
+# ======= 🎵 Rotana Group =======
+# 🟠
+#EXTINF:-1 tvg-country="EG" group-title="Rotana Group"   tvg-chno="1" tvg-name="Rotana Cinema Egypt" tvg-id="Rotana Cinema Egypt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/92/Rotana_Cinema_Egy.png",Rotana Cinema Egypt
 https://rotana.hibridcdn.net/rotananet/cinemamasr_net-7Y83PP5adWixDF93/playlist.m3u8
-
-#  🟠 .... - Group = .... - Country = ....
-#EXTINF:-1 group-title="🎵 Rotana"  tvg-id="Rotana Cinema KSA" tvg-logo="https://i.imgur.com/pGgp38I.png",Rotana Cinema KSA
+# 🟠
+#EXTINF:-1 tvg-country="EG" group-title="Rotana Group"   tvg-chno="2" tvg-name="Rotana Cinema KSA" tvg-id="Rotana Cinema KSA" tvg-logo="https://i.imgur.com/pGgp38I.png",Rotana Cinema KSA
 https://rotana.hibridcdn.net/rotananet/cinema_net-7Y83PP5adWixDF93/playlist.m3u8
-
-#  🟠 .... - Group = .... - Country = ....
-#EXTINF:-1 group-title="🎵 Rotana" tvg-id="Rotana Classic" tvg-logo="https://i.imgur.com/pMMUvkt.png",Rotana Classic
+# 🟠
+#EXTINF:-1 tvg-country="EG" group-title="Rotana Group"   tvg-chno="3" tvg-name="Rotana Classic" tvg-id="Rotana Classic" tvg-logo="https://i.imgur.com/pMMUvkt.png",Rotana Classic
 https://rotana.hibridcdn.net/rotananet/classical_net-7Y83PP5adWixDF93/playlist.m3u8
-
-#  🟠 .... - Group = .... - Country = ....
-#EXTINF:-1 group-title="🎵 Rotana" tvg-id="Rotana Clip" tvg-logo="https://i.imgur.com/nhREk0o.png",Rotana Clip
+# link2 : https://bcovlive-a.akamaihd.net/0debf5648e584e5fb795c3611c5c0252/eu-central-1/6057955906001/playlist.m3u8
+# 🟠
+#EXTINF:-1 tvg-country="EG" group-title="Rotana Group"   tvg-chno="4" tvg-name="Rotana Clip" tvg-id="Rotana Clip" tvg-logo="https://i.imgur.com/nhREk0o.png",Rotana Clip
 https://rotana.hibridcdn.net/rotananet/clip_net-7Y83PP5adWixDF93/playlist.m3u8
-
-#  🟠 .... - Group = .... - Country = ....
-#EXTINF:-1 group-title="🎵 Rotana" tvg-id="Rotana Comedy" tvg-logo="https://i.imgur.com/IlT8U6S.png",Rotana Comedy
+# 🟠
+#EXTINF:-1 tvg-country="EG" group-title="Rotana Group"   tvg-chno="5" tvg-name="Rotana Comedy" tvg-id="Rotana Comedy" tvg-logo="https://i.imgur.com/IlT8U6S.png",Rotana Comedy
 https://rotana.hibridcdn.net/rotananet/comedy_net-7Y83PP5adWixDF93/playlist.m3u8
-
-#  🟠 .... - Group = .... - Country = ....
-#EXTINF:-1 group-title="🎵 Rotana" tvg-id="Rotana Drama" tvg-logo="https://i.imgur.com/btnhPjZ.png",Rotana Drama
+# 🟠
+#EXTINF:-1 tvg-country="EG" group-title="Rotana Group"   tvg-chno="6" tvg-name="Rotana Drama" tvg-id="Rotana Drama" tvg-logo="https://i.imgur.com/btnhPjZ.png",Rotana Drama
 https://rotana.hibridcdn.net/rotananet/drama_net-7Y83PP5adWixDF93/playlist.m3u8
-
-#  🟠 .... - Group = .... - Country = ....
-#EXTINF:-1 group-title="🎵 Rotana" tvg-id="Rotana Khalijia" tvg-logo="https://i.imgur.com/6HMluzv.png",Rotana Khalijia
+# 🟠
+#EXTINF:-1 tvg-country="EG" group-title="Rotana Group"   tvg-chno="7" tvg-name="Rotana Khalijia" tvg-id="Rotana Khalijia" tvg-logo="https://i.imgur.com/6HMluzv.png",Rotana Khalijia
 https://rotana.hibridcdn.net/rotananet/khaleejiya_net-7Y83PP5adWixDF93/playlist.m3u8
-
-#  🟠 .... - Group = .... - Country = ....
-#EXTINF:-1 group-title="🎵 Rotana" tvg-id="Rotana Music" tvg-logo="https://i.imgur.com/2zFQbQi.png",Rotana Music
+# 🟠
+#EXTINF:-1 tvg-country="EG" group-title="Rotana Group"   tvg-chno="8" tvg-name="Rotana Music" tvg-id="Rotana Music" tvg-logo="https://i.imgur.com/2zFQbQi.png",Rotana Music
 https://rotana.hibridcdn.net/rotananet/music_net-7Y83PP5adWixDF93/playlist.m3u8
 
-# 🟠
-#EXTINF:-1 tvg-name="Rotana Cinema" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/92/Rotana_Cinema_Egy.png" tvg-id="RotanaCinema.eg" tvg-chno="11" tvg-country="EG" group-title="Egypt",Rotana Cinema
-https://rotana.hibridcdn.net/rotananet/cinemamasr_net-7Y83PP5adWixDF93/playlist.m3u8
 
 # ======= MBC Group =======
-# 🟠 
+# 🟢 
 #EXTINF:-1 tvg-country="AE" group-title="MBC Group"   tvg-chno="1" tvg-name="MBC 1" tvg-id="MBC 1" tvg-logo="https://i.imgur.com/CiA3plN.png",MBC 1
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-1/15cf99af5de54063fdabfefe66adc075/index.m3u8
-# 🟠
+# 🔴
 #EXTINF:-1 tvg-country="AE" group-title="MBC Group"   tvg-chno="2" tvg-name="MBC 2" tvg-id="MBC 2" tvg-logo="https://i.imgur.com/n9mSHuP.png",MBC 2
 http://37.122.156.107:4000/play/a07g/index.m3u8
-# 🟠
+# 🟢
 #EXTINF:-1 tvg-country="AE" group-title="MBC Group"   tvg-chno="3" tvg-name="MBC 3" tvg-id="MBC 3" tvg-logo="https://i.imgur.com/PVt8OPN.png",MBC 3
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-3-usa/5d58265a862a476dc7f97694addb5ded/index.m3u8
-# 🟠
+# 🟢
 #EXTINF:-1 tvg-country="AE" group-title="MBC Group"   tvg-chno="4" tvg-name="MBC 4" tvg-id="MBC 4" tvg-logo="https://i.imgur.com/BcXASJp.png",MBC 4
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-4/24f134f1cd63db9346439e96b86ca6ed/index.m3u8
-# 🟠
+# 🟢
 #EXTINF:-1 tvg-country="AE" group-title="MBC Group"   tvg-chno="5" tvg-name="MBC 5" tvg-id="MBC 5" tvg-logo="https://i.imgur.com/fRWaDyF.png",MBC 5
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-5/ee6b000cee0629411b666ab26cb13e9b/index.m3u8
-# 🟠
+# 🔴
 #EXTINF:-1 tvg-country="AE" group-title="MBC Group"   tvg-chno="6" tvg-name="MBC Max" tvg-id="MBC Max" tvg-logo="https://i.imgur.com/A02CptP.png",MBC Max
 http://37.122.156.107:4000/play/a07i/index.m3u8
-# 🟠
+# 🔴
 #EXTINF:-1 tvg-country="AE" group-title="MBC Group"   tvg-chno="7" tvg-name="MBC Action" tvg-id="MBC Action" tvg-logo="https://i.imgur.com/OWZAghw.png",MBC Action
 http://37.122.156.107:4000/play/a07h/index.m3u8
-# 🟠
+# 🟢
 #EXTINF:-1 vg-country="AE" group-title="MBC Group"   tvg-chno="8" tvg-name="MBC Drama" tvg-id="MBC Drama" tvg-logo="https://i.imgur.com/g5PWnqp.png",MBC Drama
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-drama/2c28a458e2f3253e678b07ac7d13fe71/index.m3u8
-# 🟠
+# 🟢
 #EXTINF:-1 tvg-country="AE" group-title="MBC Group"   tvg-chno="9" tvg-name="MBC Bollywood" tvg-id="MBC Bollywood" tvg-logo="https://i.imgur.com/TTAGFHG.png",MBC Bollywood
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-bollywood/546eb40d7dcf9a209255dd2496903764/index.m3u8
-# 🟠
+# 🟢
 #EXTINF:-1 tvg-country="AE" group-title="MBC Group"   tvg-chno="10" tvg-name="MBC Persia" tvg-id="MBC Persia" tvg-logo="https://i.imgur.com/4FXiyjn.png",MBC Persia
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-persia/818ee8e4b592dc497608f066d825bfb4/index.m3u8
-
-# 🟠
+# 🟢
 #EXTINF:-1 tvg-country="AE" group-title="MBC Group"   tvg-chno="11" tvg-name="MBC Masr 1" tvg-id="MBC Masr 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/MBC_Masr_Logo.png",MBC Masr 1
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr/956eac069c78a35d47245db6cdbb1575/index.m3u8
-# 🟠
+# 🟢
 #EXTINF:-1 tvg-country="AE" group-title="MBC Group"   tvg-chno="12" tvg-name="MBC Masr 2" tvg-name="MBC Masr 2" tvg-id="MBC Masr 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/53/MBC_Masr_2_Logo.svg",MBC Masr 2
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr-2/754931856515075b0aabf0e583495c68/index.m3u8
 
 
-# ==================================================
-#  🕋 Religion
-# ==================================================
+
+
+
+# ======= 🇸🇦 KSA =======
+# 🟠
+#EXTINF:-1 tvg-country="SA" group-title="🇸🇦 KSA" tvg-chno="1" tvg-name="Al Saudiya" tvg-id="Al Saudiya" tvg-logo="https://i.imgur.com/GRQTndk.png",Al Saudiya
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-saudi-tv/2ad66056b51fd8c1b624854623112e43/index.m3u8
+
+
+
+
+# 🟠
+#EXTINF:-1 tvg-name="SBC Saudi Arabia" tvg-logo="https://i.imgur.com/9JSQglj.png" tvg-id="SBC.sa" tvg-chno="2" tvg-country="SA" group-title="Saudi Arabia",SBC Saudi Arabia
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-sbc/90e09c0c28db26435799b4a14892a167/index.m3u8
+# 🟠
+#EXTINF:-1 tvg-name="Thikrayat" tvg-logo="https://i.imgur.com/AKa1X9d.png" tvg-id="ThikrayatTV.sa" tvg-chno="3" tvg-country="SA" group-title="Saudi Arabia",Thikrayat
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-thikrayat/8cfa8fe0c96275735745b89c683b27e3/index.m3u8
+# 🟠
+#EXTINF:-1 tvg-name="Al Ekhbariya" tvg-logo="https://i.imgur.com/WcRlHQm.png" tvg-id="AlEkhbariya.sa" tvg-chno="4" tvg-country="SA" group-title="Saudi Arabia",Al Ekhbariya
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-al-ekhbaria/297b3ef1cd0633ad9cfba7473a686a06/index.m3u8
+# 🟠
+#EXTINF:-1 tvg-name="Al Saudiya Alaan" tvg-logo="https://i.imgur.com/sEOjApe.png" tvg-id="AlSaudiyaAlaan.sa" tvg-chno="5" tvg-country="SA" group-title="Saudi Arabia",Al Saudiya Alaan
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-ksa-now/71ed3aa814c643306c0a8bc4fcc7d17f/index.m3u8
+# 🟠
+#EXTINF:-1 tvg-name="Al Quran Al Kareem TV" tvg-logo="https://i.imgur.com/A2fJysM.png" tvg-id="AlQuranAlKareemTV.sa" tvg-chno="9" tvg-country="SA" group-title="Saudi Arabia",Al Quran Al Kareem TV
+https://al-ekhbaria-prod-dub.shahid.net/out/v1/9885cab0a3ec4008b53bae57a27ca76b/index.m3u8
+# 🟠
+#EXTINF:-1 tvg-name="Al Sunnah Al Nabawiyah TV" tvg-logo="https://i.imgur.com/S6LcTJv.png" tvg-id="AlSunnahAlNabawiyahTV.sa" tvg-chno="10" tvg-country="SA" group-title="Saudi Arabia",Al Sunnah Al Nabawiyah TV
+http://m.live.net.sa:1935/live/sunnah/gmswf.m3u8
+
+
+
+
+
+# ======= 🕋 Religion =======
 #  🟠 .... - Group = .... - Country = ....
 #EXTINF:-1 tvg-id="Alquran.iq@SD" tvg-logo="https://i.imgur.com/lqVwrAF.png" group-title="Religious",Al Quran
 https://ktvlive.online/stream/hls/ch1.m3u8
@@ -296,66 +316,64 @@ https://rotana.hibridcdn.net/rotananet/risala_net-7Y83PP5adWixDF93/playlist.m3u8
 https://media2.streambrothers.com:1936/8122/8122/playlist.m3u8
 
 
-# ==================================================
-#   Al Kass
-# ==================================================
-#  🟠 .... - Group = .... - Country = ....
-#EXTINF:-1 tvg-id="Alkass One" tvg-logo="https://i.imgur.com/10mmlha.png" group-title="Sport",Alkass One
-https://liveeu-gcp.alkassdigital.net/alkass1-p/main.m3u8
-
-#  🟠 .... - Group = .... - Country = ....
-#EXTINF:-1 tvg-id="Alkass Two" tvg-logo="https://i.imgur.com/8w61kFX.png" group-title="Sport",Alkass Two
-https://liveeu-gcp.alkassdigital.net/alkass2-p/main.m3u8
-
-#  🟠 .... - Group = .... - Country = ....
-#EXTINF:-1 tvg-id="Alkass Three" tvg-logo="https://i.imgur.com/d57BdFh.png" group-title="Sport",Alkass Three
-https://liveeu-gcp.alkassdigital.net/alkass3-p/main.m3u8
-
-#  🟠 .... - Group = .... - Country = ....
-#EXTINF:-1 tvg-id="Alkass Four" tvg-logo="https://i.imgur.com/iDL65Wu.png" group-title="Sport",Alkass Four
-https://liveeu-gcp.alkassdigital.net/alkass4-p/main.m3u8
-
-#  🟠 .... - Group = .... - Country = ....
-#EXTINF:-1 tvg-id="AlkassSix" tvg-logo="https://i.imgur.com/CrPSPSC.png" group-title="Sport",Alkass Six
-https://liveeu-gcp.alkassdigital.net/alkass6-p/main.m3u8
 
 
 
-# ==================================================
-#   SPORT
-# ==================================================
-
-#  🟠 .... - Group = .... - Country = ....
+# ======= SPORT =======
+# 🟠
 #EXTINF:-1 tvg-id="Eurosport3601.fr" tvg-logo="https://thumb.canalplus.pro/http/unsafe/%7BresolutionXY%7D/filters:quality(%7BimageQualityPercentage%7D)/canalplus-cdn.canal-plus.io/p1/channel/635/canal-ouah/CHN43FB/CHN43FB_635_20220110" group-title="Sport",EUROSPORT360 1
 https://raw.githubusercontent.com/schumijo/iptv/main/playlists/lequipe/eurosport360-1.m3u8
 
-#  🟠 .... - Group = .... - Country = ....
+# 🟠
 #EXTINF:-1 tvg-id="Eurosport3602.fr" tvg-logo="https://thumb.canalplus.pro/http/unsafe/%7BresolutionXY%7D/filters:quality(%7BimageQualityPercentage%7D)/canalplus-cdn.canal-plus.io/p1/channel/635/canal-ouah/CHN43FB/CHN43FB_635_20220110" group-title="Sport",EUROSPORT360 2
 https://raw.githubusercontent.com/schumijo/iptv/main/playlists/lequipe/eurosport360-2.m3u8
 
-#  🟠 .... - Group = .... - Country = ....
+# 🟠
 #EXTINF:-1 tvg-id="Eurosport3603.fr" tvg-logo="https://thumb.canalplus.pro/http/unsafe/%7BresolutionXY%7D/filters:quality(%7BimageQualityPercentage%7D)/canalplus-cdn.canal-plus.io/p1/channel/635/canal-ouah/CHN43FB/CHN43FB_635_20220110" group-title="Sport",EUROSPORT360 3
 https://raw.githubusercontent.com/schumijo/iptv/main/playlists/lequipe/eurosport360-3.m3u8
 
-#  🟠 .... - Group = .... - Country = ....
+# 🟠
 #EXTINF:-1 tvg-id="Eurosport3604.fr" tvg-logo="https://thumb.canalplus.pro/http/unsafe/%7BresolutionXY%7D/filters:quality(%7BimageQualityPercentage%7D)/canalplus-cdn.canal-plus.io/p1/channel/635/canal-ouah/CHN43FB/CHN43FB_635_20220110" group-title="Sport",EUROSPORT360 4
 https://raw.githubusercontent.com/schumijo/iptv/main/playlists/lequipe/eurosport360-4.m3u8
 
-#  🟠 .... - Group = .... - Country = ....
+# 🟠
 #EXTINF:-1 tvg-id="Eurosport3605.fr" tvg-logo="https://thumb.canalplus.pro/http/unsafe/%7BresolutionXY%7D/filters:quality(%7BimageQualityPercentage%7D)/canalplus-cdn.canal-plus.io/p1/channel/635/canal-ouah/CHN43FB/CHN43FB_635_20220110" group-title="Sport",EUROSPORT360 5
 https://raw.githubusercontent.com/schumijo/iptv/main/playlists/lequipe/eurosport360-5.m3u8
 
-#  🟠 .... - Group = .... - Country = ....
+# 🟠
 #EXTINF:-1 tvg-id="Eurosport3606.fr" tvg-logo="https://thumb.canalplus.pro/http/unsafe/%7BresolutionXY%7D/filters:quality(%7BimageQualityPercentage%7D)/canalplus-cdn.canal-plus.io/p1/channel/635/canal-ouah/CHN43FB/CHN43FB_635_20220110" group-title="Sport",EUROSPORT360 6
 https://raw.githubusercontent.com/schumijo/iptv/main/playlists/lequipe/eurosport360-6.m3u8
 
+# 🟠
+#EXTINF:-1 tvg-id="Alkass One" tvg-logo="https://i.imgur.com/10mmlha.png" group-title="Sport",Alkass One
+https://liveeu-gcp.alkassdigital.net/alkass1-p/main.m3u8
 
-# ==================================================
-#   EUROPE
-# ==================================================
+# 🟠
+#EXTINF:-1 tvg-id="Alkass Two" tvg-logo="https://i.imgur.com/8w61kFX.png" group-title="Sport",Alkass Two
+https://liveeu-gcp.alkassdigital.net/alkass2-p/main.m3u8
 
+# 🟠
+#EXTINF:-1 tvg-id="Alkass Three" tvg-logo="https://i.imgur.com/d57BdFh.png" group-title="Sport",Alkass Three
+https://liveeu-gcp.alkassdigital.net/alkass3-p/main.m3u8
+
+# 🟠
+#EXTINF:-1 tvg-id="Alkass Four" tvg-logo="https://i.imgur.com/iDL65Wu.png" group-title="Sport",Alkass Four
+https://liveeu-gcp.alkassdigital.net/alkass4-p/main.m3u8
+
+# 🟠
+#EXTINF:-1 tvg-id="AlkassSix" tvg-logo="https://i.imgur.com/CrPSPSC.png" group-title="Sport",Alkass Six
+https://liveeu-gcp.alkassdigital.net/alkass6-p/main.m3u8
+
+# ======= 🇪🇺 EUROPE =======
+# 🟠
 #EXTINF:-1 tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1088.png" tvg-name="CNBC Europe" group-title="Business",CNBC Europe
 https://amg01079-nbcuuk-amg01079c1-samsung-es-1261.playouts.now.amagi.tv/playlist/amg01079-nbcuukfast-cnbcpe-samsunges/playlist.m3u8
+
+
+
+
+
+
 
 
 
