@@ -67,3 +67,9 @@ https://raw.githubusercontent.com/schumijo/iptv/main/playlists/francetv/arte.m3u
 # ==================================================
 # 🌍 Others
 # ==================================================
+
+#EXTINF:-1 group-title="🌍 Others"    tvg-id="Al Arabiya" tvg-name="Alarabiya" tvg-logo="https://shahid.mbc.net/mediaObject/a4c125db-ede8-4970-9eed-963948c78651?height=auto&width=512&croppingPoint=&version=1&type=png",Al Arabiya
+https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="🌍 Others"    tvg-id="Al Arabiya Business" tvg-name="Al Arabiya Business" tvg-logo="https://shahid.mbc.net/mediaObject/73142189-aeca-4f65-8977-d769c91e2573?height=auto&width=600&croppingPoint=&version=1&type=png",Al Arabiya Business
+https://live.alarabiya.net/alarabiapublish/aswaaq.smil/playlist.m3u8
