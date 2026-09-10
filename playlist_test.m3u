@@ -6,42 +6,36 @@ http://www.elahmad.com/tv/m3u8/elahmad_jyrh8.m3u8?id=maroc2
 
 # 🟠
 #EXTINF:-1 tvg-country="MA" group-title="🇲🇦 Maroc" tvg-name="2M Monde",2M Monde
-http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/2m_monde/hls_video_ts/index.m3u8
-# link2 : http://livecdnh2.tvanywhere.ae/hls/2m_maroc/04.m3u8
-# link2 : https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/2m_monde/hls_video_ts/2m_monde.m3u8
+# http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/2m_monde/hls_video_ts/index.m3u8
+http://livecdnh2.tvanywhere.ae/hls/2m_maroc/04.m3u8
+# https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/2m_monde/hls_video_ts/2m_monde.m3u8
 
 # 🟠
 #EXTINF:-1 tvg-country="MA" group-title="🇲🇦 Maroc" tvg-name="Al Aoula",Al Aoula
-http://cdn-hls.globecast.tv/live/ramdisk/al_aoula_inter/hls_snrt/index.m3u8
-# link2 : http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_laayoune/hls_snrt/index.m3u8
+http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_laayoune/hls_snrt/index.m3u8
 
 # 🟠
 #EXTINF:-1 tvg-country="MA" group-title="🇲🇦 Maroc" tvg-name="",Al Aoula Laayoune TV
-http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_laayoune/hls_snrt/index.m3u8
-# link2 : https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_laayoune/hls_snrt/al_aoula_laayoune-avc1_1500000=4-mp4a_130400_qad=1.m3u8
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_laayoune/hls_snrt/al_aoula_laayoune-avc1_1500000=4-mp4a_130400_qad=1.m3u8
 # link2 : http://cdn-hls.globecast.tv/live/ramdisk/al_aoula_laayoune/hls_snrt/index.m3u8
 
 # 🟠
 #EXTINF:-1 tvg-country="MA" group-title="🇲🇦 Maroc" tvg-name="",Al Maghribia
-http://cdn-hls.globecast.tv/live/ramdisk/al_maghribia_snrt/hls_snrt/index.m3u8
-# link2 : http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_maghribia_snrt/hls_snrt/index.m3u8
+http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_maghribia_snrt/hls_snrt/index.m3u8
 
 # 🟠
 #EXTINF:-1 tvg-country="MA" group-title="🇲🇦 Maroc" tvg-name="",Arrabia
-https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arrabiaa/hls_snrt/index.m3u8?fluxustv.m3u8
 # link2 : http://cdn-hls.globecast.tv/live/ramdisk/arrabiaa/hls_snrt/index.m3u8
-# link2 : http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arrabiaa/hls_snrt/index.m3u8
+http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arrabiaa/hls_snrt/index.m3u8
 
 # 🟠
 #EXTINF:-1 tvg-country="MA" group-title="🇲🇦 Maroc" tvg-name="",Arryadia
-http://www.elahmad.com/tv/m3u8/maroc.m3u8?id=arriadia
-# link2 : http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/index.m3u8
+http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/index.m3u8
 # link2 : http://cdn-hls.globecast.tv/live/ramdisk/arriadia/hls_snrt/index.m3u8
 
 # 🟠
 #EXTINF:-1 tvg-country="MA" group-title="🇲🇦 Maroc" tvg-name="",Assadissa
-http://cdn-hls.globecast.tv/live/ramdisk/assadissa/hls_snrt/index.m3u8
-# link2 : http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/assadissa/hls_snrt/index.m3u8
+http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/assadissa/hls_snrt/index.m3u8
 
 # 🟠
 #EXTINF:-1 tvg-country="MA" group-title="🇲🇦 Maroc" tvg-name="",Medi 1 TV
