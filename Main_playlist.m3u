@@ -30,6 +30,13 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/cnew
 #EXTINF:-1 group-title="🇫🇷 France"      tvg-id="CNews Prime"    tvg-name="CNews Prime"          tvg-logo="https://www.cnews.fr/themes/cnews/img/cnews-prime.png",CNews Prime
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/cnews-prime-dm.m3u8
 
+#EXTINF:-1 group-title="🇫🇷 France"      tvg-id="France24"       tvg-name="France 24 French"     tvg-logo="https://i.imgur.com/u8N6uoj.png",France 24 French
+https://live.france24.com/hls/live/2037179-b/F24_FR_HI_HLS/master_5000.m3u8
+
+#EXTINF:-1 group-title="🇫🇷 France"      tvg-id="RTL1"           tvg-name="RTL 1"                 tvg-logo="https://i.imgur.com/TybQZQS.png",RTL 1
+https://video1.getstreamhosting.com:1936/8336/8336/playlist.m3u8
+
+
 
 # ==================================================
 # 🇺🇸 USA
