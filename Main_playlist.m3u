@@ -55,7 +55,7 @@ https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
 
 
 # ======= 🇬🇧 UK =======
-#  🟠 BBC Earth - Group = UK - Country = UK
+# 🟠
 #EXTINF:-1 tvg-id="FR3200001NQ" tvg-country="GB" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR3200001NQ_20250923T010333SQUARE.png" group-title="Documentaires",BBC Earth
 https://jmp2.uk/stvp-FR3200001NQ
 
@@ -268,52 +268,22 @@ https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr/956eac069c78a35d4724
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr-2/754931856515075b0aabf0e583495c68/index.m3u8
 
 
-
-
-
 # ======= 🇸🇦 KSA =======
 # 🟠
-#EXTINF:-1 tvg-country="SA" group-title="🇸🇦 KSA" tvg-chno="1" tvg-name="Al Saudiya" tvg-id="Al Saudiya" tvg-logo="https://i.imgur.com/GRQTndk.png",Al Saudiya
-https://shd-gcp-live.edgenextcdn.net/live/bitmovin-saudi-tv/2ad66056b51fd8c1b624854623112e43/index.m3u8
-
-
-
-
-# 🟠
-#EXTINF:-1 tvg-name="SBC Saudi Arabia" tvg-logo="https://i.imgur.com/9JSQglj.png" tvg-id="SBC.sa" tvg-chno="2" tvg-country="SA" group-title="Saudi Arabia",SBC Saudi Arabia
-https://shd-gcp-live.edgenextcdn.net/live/bitmovin-sbc/90e09c0c28db26435799b4a14892a167/index.m3u8
-# 🟠
-#EXTINF:-1 tvg-name="Thikrayat" tvg-logo="https://i.imgur.com/AKa1X9d.png" tvg-id="ThikrayatTV.sa" tvg-chno="3" tvg-country="SA" group-title="Saudi Arabia",Thikrayat
-https://shd-gcp-live.edgenextcdn.net/live/bitmovin-thikrayat/8cfa8fe0c96275735745b89c683b27e3/index.m3u8
-# 🟠
-#EXTINF:-1 tvg-name="Al Ekhbariya" tvg-logo="https://i.imgur.com/WcRlHQm.png" tvg-id="AlEkhbariya.sa" tvg-chno="4" tvg-country="SA" group-title="Saudi Arabia",Al Ekhbariya
-https://shd-gcp-live.edgenextcdn.net/live/bitmovin-al-ekhbaria/297b3ef1cd0633ad9cfba7473a686a06/index.m3u8
-# 🟠
-#EXTINF:-1 tvg-name="Al Saudiya Alaan" tvg-logo="https://i.imgur.com/sEOjApe.png" tvg-id="AlSaudiyaAlaan.sa" tvg-chno="5" tvg-country="SA" group-title="Saudi Arabia",Al Saudiya Alaan
-https://shd-gcp-live.edgenextcdn.net/live/bitmovin-ksa-now/71ed3aa814c643306c0a8bc4fcc7d17f/index.m3u8
-# 🟠
-#EXTINF:-1 tvg-name="Al Quran Al Kareem TV" tvg-logo="https://i.imgur.com/A2fJysM.png" tvg-id="AlQuranAlKareemTV.sa" tvg-chno="9" tvg-country="SA" group-title="Saudi Arabia",Al Quran Al Kareem TV
+#EXTINF:-1 tvg-country="SA" group-title="🇸🇦 KSA" tvg-chno="1" tvg-name="Al Quran Al Kareem TV" tvg-id="Al Quran Al Kareem TV" tvg-logo="https://i.imgur.com/A2fJysM.png",Al Quran Al Kareem TV
 https://al-ekhbaria-prod-dub.shahid.net/out/v1/9885cab0a3ec4008b53bae57a27ca76b/index.m3u8
 # 🟠
-#EXTINF:-1 tvg-name="Al Sunnah Al Nabawiyah TV" tvg-logo="https://i.imgur.com/S6LcTJv.png" tvg-id="AlSunnahAlNabawiyahTV.sa" tvg-chno="10" tvg-country="SA" group-title="Saudi Arabia",Al Sunnah Al Nabawiyah TV
+#EXTINF:-1 tvg-country="SA" group-title="🇸🇦 KSA" tvg-chno="2" tvg-name="Al Sunnah Al Nabawiyah TV" tvg-id="Al Sunnah Al Nabawiyah TV" tvg-logo="https://i.imgur.com/S6LcTJv.png",Al Sunnah Al Nabawiyah TV
 http://m.live.net.sa:1935/live/sunnah/gmswf.m3u8
-
-
-
-
-
-# ======= 🕋 Religion =======
-#  🟠 .... - Group = .... - Country = ....
-#EXTINF:-1 tvg-id="Alquran.iq@SD" tvg-logo="https://i.imgur.com/lqVwrAF.png" group-title="Religious",Al Quran
-https://ktvlive.online/stream/hls/ch1.m3u8
-
-#  🟠 .... - Group = .... - Country = ....
-#EXTINF:-1 tvg-id="AlResalah.sa@SD" tvg-logo="https://i.imgur.com/7o4HgrP.png" group-title="Religious",Al Resalah
-https://rotana.hibridcdn.net/rotananet/risala_net-7Y83PP5adWixDF93/playlist.m3u8
-
-#  🟠 .... - Group = .... - Country = ....
-#EXTINF:-1 tvg-id="MakkahTV.sa@SD" tvg-logo="https://i.ibb.co/r2k71w5N/download.png" group-title="Religious",Makkah TV
-https://media2.streambrothers.com:1936/8122/8122/playlist.m3u8
+# 🟠
+#EXTINF:-1 tvg-country="SA" group-title="🇸🇦 KSA" tvg-chno="3" tvg-name="Al Saudiya" tvg-id="Al Saudiya" tvg-logo="https://i.imgur.com/GRQTndk.png",Al Saudiya
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-saudi-tv/2ad66056b51fd8c1b624854623112e43/index.m3u8
+# 🟠
+#EXTINF:-1 tvg-country="SA" group-title="🇸🇦 KSA" tvg-chno="4" tvg-name="Al Saudiya Alaan" tvg-id="Al Saudiya Alaan" tvg-logo="https://i.imgur.com/sEOjApe.png",Al Saudiya Alaan
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-ksa-now/71ed3aa814c643306c0a8bc4fcc7d17f/index.m3u8
+# 🟠
+#EXTINF:-1 tvg-country="SA" group-title="🇸🇦 KSA" tvg-chno="5" tvg-name="SBC Saudi Arabia" tvg-id="SBC Saudi Arabia" tvg-logo="https://i.imgur.com/9JSQglj.png",SBC Saudi Arabia
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-sbc/90e09c0c28db26435799b4a14892a167/index.m3u8
 
 
 
