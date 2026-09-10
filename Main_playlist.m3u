@@ -79,3 +79,6 @@ https://live-hls-apps-aja-fa.getaj.net/AJA/01.m3u8
 
 #EXTINF:-1 group-title="🌍 Others" tvg-id="Al Jazeera 2" tvg-name="Al Jazeera 2" tvg-logo="https://i.imgur.com/miq8O1Q.png",Al Jazeera 2
 https://live-hls-web-aja2-gcp.thehlive.com/AJA2/index.m3u8
+
+#EXTINF:-1 group-title="🌍 Others" tvg-id="Al Jazeera Documentary" tvg-name="Al Jazeera Documentary" tvg-logo="https://i.imgur.com/5dNJlLo.png",Al Jazeera Documentar
+https://live-hls-apps-ajd-fa.getaj.net/AJD/index.m3u8
