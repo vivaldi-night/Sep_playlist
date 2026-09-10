@@ -21,8 +21,11 @@ https://cdn-globecast.akamaized.net/live/eds/2m_monde/hls_video_ts_tuhawxpiemz25
 # 🇫🇷 FRANCE
 # ==================================================
 
-#EXTINF:-1 group-title="🇫🇷 France"      tvg-id="BFMTV"          tvg-name="BFM TV"               tvg-logo="https://i.imgur.com/YJCcczD.png",BFM TV
+#EXTINF:-1 group-title="🇫🇷 France"      tvg-id="BFMT V"          tvg-name="BFM TV"               tvg-logo="https://i.imgur.com/YJCcczD.png",BFM TV
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TV/index.m3u8?end=END&start=LIVE
+
+#EXTINF:-1 group-title="🇫🇷 France"      tvg-id="BFM Business"   tvg-name="BFM Business"         tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/bfm-business-fr.png",BFM BUSINESS
+https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_BUSINESS/index.m3u8?start=LIVE&end=END
 
 #EXTINF:-1 group-title="🇫🇷 France"      tvg-id="CNews"          tvg-name="CNews"                tvg-logo="https://i.imgur.com/sSNhk2g.png",CNews
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/cnews-dm.m3u8
@@ -32,9 +35,6 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/cnew
 
 #EXTINF:-1 group-title="🇫🇷 France"      tvg-id="France24"       tvg-name="France 24 French"     tvg-logo="https://i.imgur.com/u8N6uoj.png",France 24 French
 https://live.france24.com/hls/live/2037179-b/F24_FR_HI_HLS/master_5000.m3u8
-
-#EXTINF:-1 group-title="🇫🇷 France"      tvg-id="RTL1"           tvg-name="RTL 1"                 tvg-logo="https://i.imgur.com/TybQZQS.png",RTL 1
-https://video1.getstreamhosting.com:1936/8336/8336/playlist.m3u8
 
 
 
