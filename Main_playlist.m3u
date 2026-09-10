@@ -228,30 +228,30 @@ https://live.kwikmotion.com/smc1live/smc1tv.smil/playlist.m3u8
 https://svs.itworkscdn.net/smc2live/smc2tv.smil/playlist.m3u8
 
 # ======= Arabic News =======
-# 🟠
+# 🟢
 #EXTINF:-1 tvg-country="QA" group-title="Arabic News" tvg-chno="1" tvg-name="Al Jazeera" tvg-id="Al Jazeera" tvg-logo="https://i.imgur.com/7bRVpnu.png",Al Jazeera
 https://live-hls-apps-aja-fa.getaj.net/AJA/01.m3u8
-# 🟠
+# 🟢
 #EXTINF:-1 tvg-country="QA" group-title="Arabic News" tvg-chno="2" tvg-name="Al Jazeera 2" tvg-id="Al Jazeera 2" tvg-logo="https://i.imgur.com/miq8O1Q.png",Al Jazeera 2
 https://live-hls-web-aja2-gcp.thehlive.com/AJA2/index.m3u8
-# 🟠
+# 🟢
 #EXTINF:-1 tvg-country="QA" group-title="Arabic News" tvg-chno="3" tvg-name="Al Jazeera Mubasher" tvg-id="Al Jazeera Mubasher" tvg-logo="https://i.imgur.com/X80DQvF.png",Al Jazeera Mubasher
 https://live-hls-apps-ajm-fa.getaj.net/AJM/index.m3u8
-# 🟠
+# 🟢
 #EXTINF:-1 tvg-country="QA" group-title="Arabic News" tvg-chno="4" tvg-name="Al Jazeera Mubasher 24" tvg-id="Al Jazeera Mubasher 24" tvg-logo="https://i.imgur.com/LMCcIZ2.png",Al Jazeera Mubasher 24
 https://live-hls-apps-ajm24-fa.getaj.net/AJM24/index.m3u8
 # 🟠
-#EXTINF:-1 tvg-country="QA" group-title="Arabic News" tvg-chno="5" tvg-name="Al Jazeera Documentary" tvg-id="Al Jazeera Documentary" tvg-logo="https://i.imgur.com/LMCcIZ2.png",Al Jazeera Documentary
+#EXTINF:-1 tvg-country="QA" group-title="Arabic News" tvg-chno="5" tvg-name="Al Jazeera Documentary" tvg-id="Al Jazeera Documentary" tvg-logo="https://i.imgur.com/5dNJlLo.png",Al Jazeera Documentary
 https://live-hls-apps-ajd-fa.getaj.net/AJD/index.m3u8
-# 🟠
+# 🟢
 #EXTINF:-1 tvg-country="AE" group-title="Arabic News" tvg-chno="6" tvg-name="Al Arabiya" tvg-id="Al Arabiya" tvg-logo="https://i.imgur.com/NXFkYFj.png",Al Arabiya
 https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
-# 🟠
+# 🟢
 #EXTINF:-1 tvg-country="AE" group-title="Arabic News" tvg-chno="7" tvg-name="Al Arabiya Business" tvg-id="Al Arabiya Business" tvg-logo="https://shahid.mbc.net/mediaObject/73142189-aeca-4f65-8977-d769c91e2573?height=auto&width=600&croppingPoint=&version=1&type=png",Al Arabiya Business
 https://live.alarabiya.net/alarabiapublish/aswaaq.smil/playlist.m3u8
 # 🟠
 #EXTINF:-1 tvg-country="UK" group-title="Arabic News" tvg-chno="8" tvg-name="BBC Arabic" tvg-id="BBC Arabic" tvg-logo="https://i.imgur.com/ScyTG6P.png",BBC Arabic
-https://vs-cmaf-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2.mpd
+https://vs-hls-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2.m3u8
 # 🟠
 #EXTINF:-1 tvg-country="UK" group-title="Arabic News" tvg-chno="9" tvg-name="SkyNews Arabia" tvg-id="SkyNews Arabia" tvg-logo="https://i.imgur.com/SvjU4h6.png",SkyNews Arabia
 https://live-stream.skynewsarabia.com/c-horizontal-channel/horizontal-stream/index.m3u8
