@@ -2,17 +2,29 @@
 
 # ======= 🇲🇦 MAROC =======
 # 🟢
-#EXTINF:-1 tvg-country="MA" group-title="🇲🇦 Maroc"   tvg-chno="1" tvg-id="Medi 1 TV"          tvg-name="Medi 1 TV (AR)"       tvg-logo="https://i.imgur.com/3YsZPY6.jpeg",Medi 1 TV Arabic
+#EXTINF:-1 tvg-country="MA" group-title="🇲🇦 Maroc" tvg-chno="1" tvg-name="Medi 1 TV (AR)" tvg-id="Medi 1 TV" tvg-logo="https://i.imgur.com/3YsZPY6.jpeg",Medi 1 TV Arabic
 https://cdn.live.easybroadcast.io/abr_corp/83_medi1tv-arabic_g90v4ec/playlist.m3u8
 # 🟢
-#EXTINF:-1 tvg-country="MA" group-title="🇲🇦 Maroc"   tvg-chno="2" tvg-id="Medi 1 TV Maghreb"  tvg-name="Medi 1 TV (Maghreb)"  tvg-logo="https://i.imgur.com/F5OFQsp.jpeg",Medi 1 TV Maghreb
+#EXTINF:-1 tvg-country="MA" group-title="🇲🇦 Maroc" tvg-chno="2" tvg-name="Medi 1 TV (Maghreb)" tvg-id="Medi 1 TV Maghreb" tvg-logo="https://i.imgur.com/F5OFQsp.jpeg",Medi 1 TV Maghreb
 https://cdn.live.easybroadcast.io/abr_corp/83_medi1tv-maghreb_jnbspmg/playlist.m3u8
 # 🟢
-#EXTINF:-1 tvg-country="MA" group-title="🇲🇦 Maroc"   tvg-chno="3" tvg-id="Medi 1 TV Afrique"  tvg-name="Medi 1 TV Afrique"    tvg-logo="https://i.imgur.com/a20DHnj.png",Medi 1 TV Afrique
+#EXTINF:-1 tvg-country="MA" group-title="🇲🇦 Maroc" tvg-chno="3" tvg-name="Medi 1 TV Afrique" tvg-id="Medi 1 TV Afrique" tvg-logo="https://i.imgur.com/a20DHnj.png",Medi 1 TV Afrique
 https://cdn.live.easybroadcast.io/abr_corp/83_medi1tv-afrique_tm7tu45/playlist.m3u8
 # 🟢
-#EXTINF:-1 tvg-country="MA" group-title="🇲🇦 Maroc"   tvg-chno="4" tvg-id="2M Monde"          tvg-name="2M Monde"              tvg-logo="https://i.imgur.com/MvpntzA.png",2M Monde
+#EXTINF:-1 tvg-country="MA" group-title="🇲🇦 Maroc" tvg-chno="4" tvg-name="2M Maroc" tvg-id="2M Maroc" tvg-logo="https://i.imgur.com/PJYTfHi.png",2M Maroc
+http://185.9.2.18/chid_218/index.m3u8
+# 🟢
+#EXTINF:-1 tvg-country="MA" group-title="🇲🇦 Maroc" tvg-chno="5" tvg-name="2M Monde" tvg-id="2M Monde" tvg-logo="https://i.imgur.com/MvpntzA.png",2M Monde
 https://cdn-globecast.akamaized.net/live/eds/2m_monde/hls_video_ts_tuhawxpiemz257adfc/2m_monde.m3u8
+# 🟢
+#EXTINF:-1 tvg-country="MA" group-title="🇲🇦 Maroc" tvg-chno="6" tvg-name="2M Monde +1" tvg-id="2M Monde +1" tvg-logo="https://i.imgur.com/MvpntzA.png",2M Monde +1
+https://d2qh3gh0k5vp3v.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-n6pess5lwbghr/2M_ES.m3u8
+# 🟢
+#EXTINF:-1 tvg-country="MA" group-title="🇲🇦 Maroc" tvg-chno="7" tvg-name="Al Maghribia" tvg-id="Arryadia" tvg-logo="https://i.imgur.com/7GaahYh.png",Al Maghribia
+http://185.9.2.18/chid_205/index.m3u8
+# 🟢
+#EXTINF:-1 tvg-country="MA" group-title="🇲🇦 Maroc" tvg-chno="8" tvg-name="Arryadia" tvg-id="Arryadia" tvg-logo="https://i.imgur.com/XjzK3gZ.png",Arryadia
+http://149.100.11.252:8000/play/a065/index.m3u8
 
 # ======= 🇺🇸 USA =======
 # 🟢
