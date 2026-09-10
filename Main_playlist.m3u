@@ -252,7 +252,8 @@ https://live-hls-apps-ajm-fa.getaj.net/AJM/index.m3u8
 https://live-hls-apps-ajm24-fa.getaj.net/AJM24/index.m3u8
 # 🟠
 #EXTINF:-1 tvg-country="QA" group-title="Arabic News" tvg-chno="5" tvg-name="Al Jazeera Documentary" tvg-id="Al Jazeera Documentary" tvg-logo="https://i.imgur.com/5dNJlLo.png",Al Jazeera Documentary
-https://live-hls-apps-ajd-fa.getaj.net/AJD/index.m3u8
+# https://live-hls-apps-ajd-fa.getaj.net/AJD/index.m3u8
+https://live-hls-web-ajd.getaj.net/AJD/index.m3u8
 # 🟢
 #EXTINF:-1 tvg-country="AE" group-title="Arabic News" tvg-chno="6" tvg-name="Al Arabiya" tvg-id="Al Arabiya" tvg-logo="https://i.imgur.com/NXFkYFj.png",Al Arabiya
 https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
