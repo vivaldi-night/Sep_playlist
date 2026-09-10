@@ -21,6 +21,15 @@ https://cdn-globecast.akamaized.net/live/eds/2m_monde/hls_video_ts_tuhawxpiemz25
 # 🇫🇷 FRANCE
 # ==================================================
 
+#EXTINF:-1 group-title="🇫🇷 France"      tvg-id="BFMTV"          tvg-name="BFM TV"               tvg-logo="https://i.imgur.com/YJCcczD.png",BFM TV
+https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TV/index.m3u8?end=END&start=LIVE
+
+#EXTINF:-1 group-title="🇫🇷 France"      tvg-id="CNews"          tvg-name="CNews"                tvg-logo="https://i.imgur.com/sSNhk2g.png",CNews
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/cnews-dm.m3u8
+
+#EXTINF:-1 group-title="🇫🇷 France"      tvg-id="CNews Prime"    tvg-name="CNews Prime"          tvg-logo="https://www.cnews.fr/themes/cnews/img/cnews-prime.png",CNews Prime
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/cnews-prime-dm.m3u8
+
 
 # ==================================================
 # 🇺🇸 USA
