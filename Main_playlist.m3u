@@ -77,9 +77,10 @@ http://23.237.104.106:8080/USA_E/index.m3u8
 http://170.254.17.2/NBC/index.m3u8
 
 # ======= 🇬🇧 UK =======
-# 🟠
+# 🟢
 #EXTINF:-1 tvg-country="GB" group-title="🇬🇧 UK" tvg-chno="1" tvg-name="BBC News" tvg-id="BBC News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/BBC_News_2022_%28Alt%29.svg/500px-BBC_News_2022_%28Alt%29.svg.png",BBC News
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
+# link2 : https://xemzi.short.gy/1000015
 # 🟠
 #EXTINF:-1 tvg-country="GB" group-title="🇬🇧 UK" tvg-chno="2" tvg-name="BBC World Service" tvg-name="BBC World Service" tvg-id="BBC World Service" tvg-logo="https://experiencersinternational.github.io/tvsetup/tvg-ico/bbcws-epg.png",BBC World Service
 http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_low/ak/bbc_world_service.m3u8
@@ -127,9 +128,6 @@ https://bloomberg.com/media-manifest/streams/eu.m3u8
 https://www.youtube.com/c/france24english/live
 #EXTINF:-1 tvg-country="GB" group-title="🇬🇧 UK" tvg-chno="17" tvg-name="CNBC Europe" tvg-id="CNBC Europe" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1088.png",CNBC Europe
 https://amg01079-nbcuuk-amg01079c1-samsung-es-1261.playouts.now.amagi.tv/playlist/amg01079-nbcuukfast-cnbcpe-samsunges/playlist.m3u8
-# 🟢
-#EXTINF:-1 tvg-country="GB" group-title="🇬🇧 UK" tvg-chno="17" tvg-name="BBC News" tvg-id="BBC News" tvg-logo="https://dtil.tmsimg.com/assets/s158142_ld_h15_aa.png?lock=720x540",BBC News
-https://xemzi.short.gy/1000015
 # 🟢
 #EXTINF:-1 tvg-country="GB" group-title="🇬🇧 UK" tvg-chno="18" tvg-name="MTV Global" tvg-id="MTV Global" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/MTV_2021_%28brand_version%29.svg",MTV Global
 http://dvr2.kablova.tv/MTV/index.m3u8
