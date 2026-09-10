@@ -230,6 +230,9 @@ https://live.kwikmotion.com/smc1live/smc1tv.smil/playlist.m3u8
 # 🟢
 #EXTINF:-1 tvg-country="SA" group-title="🇸🇦 KSA" tvg-chno="7" tvg-name="Sharjah TV 2" tvg-id="Sharjah TV 2" tvg-logo="https://i.imgur.com/Wd3Xvd1.png",Sharjah TV 2
 https://svs.itworkscdn.net/smc2live/smc2tv.smil/playlist.m3u8
+# 🟢
+#EXTINF:-1 tvg-country="SA" group-title="🇸🇦 KSA" tvg-chno="8" tvg-name="Makkah TV" tvg-id="Makkah TV" tvg-logo="https://i.ibb.co/r2k71w5N/download.png",Makkah TV
+https://media2.streambrothers.com:1936/8122/8122/chunklist_w1377011831.m3u8
 
 # ======= Arabic News =======
 # 🟢
