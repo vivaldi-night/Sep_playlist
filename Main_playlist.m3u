@@ -363,5 +363,9 @@ https://artesimulcast.akamaized.net/hls/live/2031003/artelive_fr/index.m3u8
 #EXTINF:-1 tvg-country="AE" group-title="🌍 Others" tvg-chno="1" tvg-name="Dubai TV International" tvg-id="Dubai TV International" tvg-logo="https://i.imgur.com/UMmbyHv.png",Dubai TV International
 http://185.9.2.18/chid_139/index.m3u8
 
+# 🟠
+#EXTINF:-1 tvg-country="AE" group-title="🌍 Others" tvg-chno="2" tvg-name="Al Arabiya English" tvg-id="Al Arabiya English" tvg-logo="https://english.alarabiya.net/.resources/aa-fe-templating/webresources/dist/assets/gfx/logo/en-night-logo.svg",Al Arabiya English
+https://live.alarabiya.net/alarabiapublish/english/chunks_dvr.m3u8
+
 # ======= 🇪🇺 EUROPE =======
 # 🟠
