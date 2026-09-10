@@ -21,10 +21,11 @@ https://cdn-globecast.akamaized.net/live/eds/2m_monde/hls_video_ts_tuhawxpiemz25
 # 🇫🇷 FRANCE
 # ==================================================
 
+
 #EXTINF:-1 group-title="🇫🇷 France"      tvg-id="BFMT V"          tvg-name="BFM TV"               tvg-logo="https://i.imgur.com/YJCcczD.png",BFM TV
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TV/index.m3u8?end=END&start=LIVE
 
-#EXTINF:-1 group-title="🇫🇷 France"      tvg-id="BFM Business"   tvg-name="BFM Business"         tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/bfm-business-fr.png",BFM BUSINESS
+#EXTINF:-1 group-title="🇫🇷 France"      tvg-id="BFM Business"   tvg-name="BFM Business"         tvg-logo="https://i.imgur.com/psqIHn4.png",BFM BUSINESS
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_BUSINESS/index.m3u8?start=LIVE&end=END
 
 #EXTINF:-1 group-title="🇫🇷 France"      tvg-id="CNews"          tvg-name="CNews"                tvg-logo="https://i.imgur.com/sSNhk2g.png",CNews
@@ -48,7 +49,7 @@ https://raw.githubusercontent.com/schumijo/iptv/main/playlists/francetv/france4.
 #EXTINF:-1 group-title="🇫🇷 France"      tvg-id="France 5"        tvg-name="France 5"            tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/france-5-fr.png",FRANCE 5
 https://raw.githubusercontent.com/schumijo/iptv/main/playlists/francetv/france5.m3u8
 
-#EXTINF:-1 group-title="🇫🇷 France"      tvg-id="ARTE"            tvg-name="ARTE"                tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/arte-fr.png",ARTE
+#EXTINF:-1 group-title="🇫🇷 France"      tvg-id="ARTE"            tvg-name="ARTE"                tvg-logo="https://i.imgur.com/ecXMjNl.png",ARTE
 https://raw.githubusercontent.com/schumijo/iptv/main/playlists/francetv/arte.m3u8
 
 
@@ -68,7 +69,7 @@ https://raw.githubusercontent.com/schumijo/iptv/main/playlists/francetv/arte.m3u
 # 🌍 Others
 # ==================================================
 
-#EXTINF:-1 group-title="🌍 Others"    tvg-id="Al Arabiya" tvg-name="Alarabiya" tvg-logo="https://shahid.mbc.net/mediaObject/a4c125db-ede8-4970-9eed-963948c78651?height=auto&width=512&croppingPoint=&version=1&type=png",Al Arabiya
+#EXTINF:-1 group-title="🌍 Others"    tvg-id="Al Arabiya" tvg-name="Al Arabiya" tvg-logo="https://i.imgur.com/NXFkYFj.png",Al Arabiya
 https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="🌍 Others"    tvg-id="Al Arabiya Business" tvg-name="Al Arabiya Business" tvg-logo="https://shahid.mbc.net/mediaObject/73142189-aeca-4f65-8977-d769c91e2573?height=auto&width=600&croppingPoint=&version=1&type=png",Al Arabiya Business
