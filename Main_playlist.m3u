@@ -73,3 +73,9 @@ https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="🌍 Others"    tvg-id="Al Arabiya Business" tvg-name="Al Arabiya Business" tvg-logo="https://shahid.mbc.net/mediaObject/73142189-aeca-4f65-8977-d769c91e2573?height=auto&width=600&croppingPoint=&version=1&type=png",Al Arabiya Business
 https://live.alarabiya.net/alarabiapublish/aswaaq.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="🌍 Others" tvg-id="Al Jazeera" tvg-name="Al Jazeera" tvg-logo="https://i.imgur.com/7bRVpnu.png",Al Jazeera
+https://live-hls-apps-aja-fa.getaj.net/AJA/01.m3u8
+
+#EXTINF:-1 group-title="🌍 Others" tvg-id="Al Jazeera 2" tvg-name="Al Jazeera 2" tvg-logo="https://i.imgur.com/miq8O1Q.png",Al Jazeera 2
+https://live-hls-web-aja2-gcp.thehlive.com/AJA2/index.m3u8
