@@ -14,7 +14,6 @@ https://cdn.live.easybroadcast.io/abr_corp/83_medi1tv-afrique_tm7tu45/playlist.m
 #EXTINF:-1 tvg-country="MA" group-title="🇲🇦 Maroc"   tvg-chno="4" tvg-id="2M Monde"          tvg-name="2M Monde"              tvg-logo="https://i.imgur.com/MvpntzA.png",2M Monde
 https://cdn-globecast.akamaized.net/live/eds/2m_monde/hls_video_ts_tuhawxpiemz257adfc/2m_monde.m3u8
 
-
 # ======= 🇺🇸 USA =======
 # 🟢
 #EXTINF:-1 tvg-country="US" group-title="🇺🇸 USA" tvg-chno="1" tvg-name="CNN" tvg-id="CNN" tvg-logo="https://i.imgur.com/vyrc1I1.png",CNN
@@ -53,153 +52,55 @@ https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 #EXTINF:-1 tvg-country="US" group-title="🇺🇸 USA" tvg-chno="12" tvg-name="NASA TV Media" tvg-id="NASA TV Media" tvg-logo="https://i.imgur.com/rmyfoOI.png",NASA TV Media
 https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
 
-
 # ======= 🇬🇧 UK =======
 # 🟠
-#EXTINF:-1 tvg-id="FR3200001NQ" tvg-country="GB" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR3200001NQ_20250923T010333SQUARE.png" group-title="Documentaires",BBC Earth
-https://jmp2.uk/stvp-FR3200001NQ
-
-
-#EXTINF:-1 tvg-name="BBC One" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/500px-BBC_One_logo_2021.svg.png" tvg-id="BBCOne.uk" tvg-chno="1" tvg-country="GB" group-title="UK",BBC One
-https://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_yorks/iptv_hd_abr_v1.m3u8
-#EXTINF:-1 tvg-name="BBC Two" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/BBC_Two_logo_2021.svg/500px-BBC_Two_logo_2021.svg.png" tvg-id="BBCTwo.uk" tvg-chno="2" tvg-country="GB" group-title="UK",BBC Two
-https://vs-hls-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_two_hd/iptv_hd_abr_v1.m3u8
-#EXTINF:-1 tvg-name="ITV 1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1f/ITV1_logo_%282022%29.svg/500px-ITV1_logo_%282022%29.svg.png" tvg-id="ITV1.uk" tvg-chno="3" tvg-country="GB" group-title="UK",ITV 1
-#EXTINF:-1 tvg-name="Channel 5" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cb/Channel_5_%28UK%29_2016.svg/500px-Channel_5_%28UK%29_2016.svg.png" tvg-id="Channel5.uk" tvg-chno="8" tvg-country="GB" group-title="UK",Channel 5
-http://193.46.58.239:8080/Channel5/index.m3u8
-#EXTINF:-1 tvg-name="ITV 2" tvg-logo="https://i.imgur.com/Ji65OXG.png" tvg-id="ITV2.uk" tvg-chno="9" tvg-country="GB" group-title="UK",ITV 2
-http://45.14.84.37/itv2/index.m3u8
-#EXTINF:-1 tvg-name="BBC Alba" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/BBC_Alba_2021.svg/500px-BBC_Alba_2021.svg.png" tvg-id="BBCAlba.uk" tvg-chno="10" tvg-country="GB" group-title="UK",BBC Alba
-https://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_alba/iptv_hd_abr_v1.m3u8
-#EXTINF:-1 tvg-name="BBC Four" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/BBC_Four_logo_2021.svg/500px-BBC_Four_logo_2021.svg.png" tvg-id="BBCFour.uk" tvg-chno="11" tvg-country="GB" group-title="UK",BBC Four
-https://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_four_hd/iptv_hd_abr_v1.m3u8
-#EXTINF:-1 tvg-name="BBC Scotland Ⓢ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/BBC_Scotland_2021_%28channel%29.svg/500px-BBC_Scotland_2021_%28channel%29.svg.png" tvg-id="BBCScotland.uk" tvg-chno="12" tvg-country="GB" group-title="UK",BBC Scotland
-https://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_scotland_hd/pc_hd_abr_v2.m3u8
-#EXTINF:-1 tvg-name="ITV 3" tvg-logo="https://i.imgur.com/vYNyYGx.png" tvg-id="ITV3.uk" tvg-chno="13" tvg-country="GB" group-title="UK",ITV 3
-http://45.14.84.37/itv3/index.m3u8
-#EXTINF:-1 tvg-name="BBC Three" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/BBC_Three_2022.svg/500px-BBC_Three_2022.svg.png" tvg-id="BBCThree.uk" tvg-chno="23" tvg-country="GB" group-title="UK",BBC Three
-https://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_three_hd/iptv_hd_abr_v1.m3u8
-#EXTINF:-1 tvg-name="ITV 4" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/57/ITV4_logo_%282022%29.svg/500px-ITV4_logo_%282022%29.svg.png" tvg-id="ITV4.uk" tvg-chno="26" tvg-country="GB" group-title="UK",ITV 4
-http://45.14.84.37/itv4/index.m3u8
-#EXTINF:-1 tvg-name="Great! Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/92/Great%21_Movies_logo_2021.svg/500px-Great%21_Movies_logo_2021.svg.png" tvg-id="GreatMovies.uk" tvg-chno="34" tvg-country="GB" group-title="UK",Great! Movies
-https://amg01753-narrativeuk-amg01753c3-lg-gb-1833.playouts.now.amagi.tv/playlist/amg01753-narrativeuk-greatmovies-lggb/playlist.m3u8
-#EXTINF:-1 tvg-name="Great! Romance" tvg-logo="https://www.freeview.co.uk/sites/default/files/styles/255_wide/public/2023-09/GREAT-Christmas-logo.png" tvg-id="GreatRomance.uk" tvg-chno="52" tvg-country="GB" group-title="UK",Great! Romance Ⓢ
-https://amg01753-narrativeuk-amg01753c2-lg-gb-1832.playouts.now.amagi.tv/playlist/amg01753-narrativeuk-greatchristmas-lggb/playlist.m3u8
-#EXTINF:-1 tvg-name="True Crime" tvg-logo="https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/TV/True-Crime-UK.png" tvg-id="TrueCrime.uk" tvg-chno="67" tvg-country="GB" group-title="UK",True Crime Ⓢ
-https://b6cca454.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9UcnVlQ3JpbWVVS2Zyb21DQlNSZWFsaXR5X0hMUw/playlist.m3u8
-#EXTINF:-1 tvg-name="BBC News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/BBC_News_2022_%28Alt%29.svg/500px-BBC_News_2022_%28Alt%29.svg.png" tvg-id="BBCNews.uk" tvg-chno="231" tvg-country="GB" group-title="UK",BBC News
+#EXTINF:-1 tvg-country="GB" group-title="🇬🇧 UK" tvg-chno="1" tvg-name="BBC News" tvg-id="BBC News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/BBC_News_2022_%28Alt%29.svg/500px-BBC_News_2022_%28Alt%29.svg.png",BBC News
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
-#EXTINF:-1 tvg-name="BBC Parliament Ⓢ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/BBC_Parliament_2022.svg/500px-BBC_Parliament_2022.svg.png" tvg-id="BBCParliament.uk" tvg-chno="232" tvg-country="GB" group-title="UK",BBC Parliament
-https://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_parliament/pc_hd_abr_v2.m3u8
-#EXTINF:-1 tvg-name="Sky News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Sky_News_logo.svg/960px-Sky_News_logo.svg.png" tvg-id="SkyNews.uk" tvg-chno="233" tvg-country="GB" group-title="UK",Sky News
-https://linear021-gb-hls1-prd-ak.cdn.skycdp.com/Content/HLS_001_hd/Live/channel(skynews)/index_mob.m3u8
-#EXTINF:-1 tvg-name="GB News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/35/GB_News_Logo.svg/500px-GB_News_Logo.svg.png" tvg-id="GBNews.uk" tvg-chno="236" tvg-country="GB" group-title="UK",GB News
-https://live-gbnews.simplestreamcdn.com/live5/gbnews/bitrate1.isml/manifest.m3u8
-#EXTINF:-1 tvg-name="TalkTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/83/TalkTV_logo.png" tvg-id="TalkTV.uk" tvg-chno="237" tvg-country="GB" group-title="UK",TalkTV
-https://488f4ce4.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctZ2JfVGFsa19ITFM/playlist.m3u8
-#EXTINF:-1 tvg-name="France 24" tvg-logo="https://i.imgur.com/61MSiq9.png" tvg-id="France24English.fr" tvg-chno="205" tvg-country="GB" group-title="UK",France 24
-https://www.youtube.com/c/france24english/live
-#EXTINF:-1 tvg-name="Bloomberg TV" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1074.png" tvg-id="BloombergTVEurope.uk" tvg-chno="208" tvg-country="GB" group-title="UK",Bloomberg TV
-https://bloomberg.com/media-manifest/streams/eu.m3u8
-#EXTINF:-1 tvg-name="NHK World Japan" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/NHK_World-Japan_TV.svg/500px-NHK_World-Japan_TV.svg.png" tvg-id="NHKWorldJapan.jp" tvg-chno="209" tvg-country="GB" group-title="UK",NHK World Japan
-https://master.nhkworld.jp/nhkworld-tv/playlist/live.m3u8
-#EXTINF:-1 tvg-name="TRT World" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/TRT_World.svg/500px-TRT_World.svg.png" tvg-id="TRTWorld.tr" tvg-chno="215" tvg-country="GB" group-title="UK",TRT World
-https://dash2.antik.sk/live/test_trt_world_atktv/playlist.m3u8
-#EXTINF:-1 tvg-name="Now Rock" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/89/NOW_Rock_logo.png" tvg-id="NowRock.uk" tvg-chno="363" tvg-country="GB" group-title="UK",Now Rock
-https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-name="BBC Radio 1" tvg-logo="https://experiencersinternational.github.io/tvsetup/tvg-ico/bbcrd1-epg.png" tvg-id="BBCRadio1.uk" tvg-chno="1" tvg-country="GB" group-title="UK",BBC Radio 1
-https://lsn.lv/bbcradio.m3u8?station=bbc_radio_one&bitrate=320000
-#EXTINF:-1 tvg-name="BBC Radio 2" tvg-logo="https://experiencersinternational.github.io/tvsetup/tvg-ico/bbcrd2-epg.png" tvg-id="BBCRadio2.uk" tvg-chno="2" tvg-country="GB" group-title="UK",BBC Radio 2
-https://lsn.lv/bbcradio.m3u8?station=bbc_radio_two&bitrate=320000
-#EXTINF:-1 tvg-name="BBC Radio 3" tvg-logo="https://experiencersinternational.github.io/tvsetup/tvg-ico/bbcrd3-epg.png" tvg-id="BBCRadio3.uk" tvg-chno="3" tvg-country="GB" group-title="UK",BBC Radio 3
-https://lsn.lv/bbcradio.m3u8?station=bbc_radio_three&bitrate=320000
-#EXTINF:-1 tvg-name="BBC Radio 4" tvg-logo="https://experiencersinternational.github.io/tvsetup/tvg-ico/bbcrd4-epg.png" tvg-id="BBCRadio4FM.uk" tvg-chno="4" tvg-country="GB" group-title="UK",BBC Radio 4
-https://lsn.lv/bbcradio.m3u8?station=bbc_radio_fourfm&bitrate=320000
-#EXTINF:-1 tvg-name="BBC Radio 5 Live" tvg-logo="https://experiencersinternational.github.io/tvsetup/tvg-ico/bbcrd5l-epg.png" tvg-id="BBCRadio5Live.uk" tvg-chno="5" tvg-country="GB" group-title="UK",BBC Radio 5 Live
-https://lsn.lv/bbcradio.m3u8?station=bbc_radio_five_live&bitrate=320000
-#EXTINF:-1 tvg-name="BBC Radio 6 Music" tvg-logo="https://experiencersinternational.github.io/tvsetup/tvg-ico/bbcrd6-epg.png" tvg-id="BBCRadio6Music.uk" tvg-chno="6" tvg-country="GB" group-title="UK",BBC Radio 6 Music
-https://lsn.lv/bbcradio.m3u8?station=bbc_6music&bitrate=320000
-#EXTINF:-1 tvg-name="BBC Radio 1Xtra" tvg-logo="https://experiencersinternational.github.io/tvsetup/tvg-ico/bbcrd1x-epg.png" tvg-id="BBCRadio1Xtra.uk" tvg-chno="7" tvg-country="GB" group-title="UK",BBC Radio 1Xtra
-https://lsn.lv/bbcradio.m3u8?station=bbc_1xtra&bitrate=320000
-#EXTINF:-1 tvg-name="BBC Radio 4 Extra" tvg-logo="https://experiencersinternational.github.io/tvsetup/tvg-ico/bbcrd4x-epg.png" tvg-id="BBCRadio4Extra.uk" tvg-chno="8" tvg-country="GB" group-title="UK",BBC Radio 4 Extra
-https://lsn.lv/bbcradio.m3u8?station=bbc_radio_four_extra&bitrate=320000
-#EXTINF:-1 tvg-name="BBC Radio 5 Sports Extra" tvg-logo="https://experiencersinternational.github.io/tvsetup/tvg-ico/bbcrd5s-epg.png" tvg-id="BBCRadio5SportsExtra.uk" tvg-chno="9" tvg-country="GB" group-title="UK",BBC Radio 5 Sports Extra
-https://lsn.lv/bbcradio.m3u8?station=bbc_radio_five_live_sports_extra&bitrate=320000
-#EXTINF:-1 tvg-name="BBC Asian Network" tvg-logo="https://experiencersinternational.github.io/tvsetup/tvg-ico/bbcasiannet-epg.png" tvg-id="BBCRadioAsianNetwork.uk" tvg-chno="10" tvg-country="GB" group-title="UK",BBC Asian Network
-https://lsn.lv/bbcradio.m3u8?station=bbc_asian_network&bitrate=320000
-#EXTINF:-1 tvg-name="BBC World Service" tvg-logo="https://experiencersinternational.github.io/tvsetup/tvg-ico/bbcws-epg.png" tvg-id="BBCRadioWorldService.uk" tvg-chno="11" tvg-country="GB" group-title="UK",BBC World Service
+# 🟠
+#EXTINF:-1 tvg-country="GB" group-title="🇬🇧 UK" tvg-chno="2" tvg-name="BBC World Service" tvg-name="BBC World Service" tvg-id="BBC World Service" tvg-logo="https://experiencersinternational.github.io/tvsetup/tvg-ico/bbcws-epg.png",BBC World Service
 http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_low/ak/bbc_world_service.m3u8
-
-
-# ==================================================
-# 🌍 Others
-# ==================================================
-
-#  🟠 Sharjah TV - Group = Others - Country = KSA
-#EXTINF:-1 tvg-id="Sharjah TV" tvg-logo="https://i.imgur.com/Oz2bPOt.png" group-title="Religious",Sharjah TV
-https://live.kwikmotion.com/smc1live/smc1tv.smil/playlist.m3u8
-
-#  🟠 Sharjah 2 - Group = Others - Country = KSA
-#EXTINF:-1 tvg-id="Sharjah2.ae@SD" tvg-logo="https://i.imgur.com/Wd3Xvd1.png" group-title="Religious",Sharjah 2
-https://svs.itworkscdn.net/smc2live/smc2tv.smil/playlist.m3u8
-
-
-# ==================================================
-#  🎵 ARABIC NEWS
-# ==================================================
-#  🟠 .... - Group = .... - Country = ....
-#EXTINF:-1 tvg-id="France24.fr@Arabic" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_FRANCE_24/images/LOGO_HD/image.png" group-title="News",France 24 AR
-https://live.france24.com/hls/live/2037222-b/F24_AR_HI_HLS/master_5000.m3u8
-
-#  🟠 .... - Group = .... - Country = ....
-#EXTINF:-1 group-title="🌍 Others"    tvg-id="Al Arabiya" tvg-name="Al Arabiya" tvg-logo="https://i.imgur.com/NXFkYFj.png",Al Arabiya
-https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
-
-#  🟠 .... - Group = .... - Country = ....
-#EXTINF:-1 group-title="🌍 Others"    tvg-id="Al Arabiya Business" tvg-name="Al Arabiya Business" tvg-logo="https://shahid.mbc.net/mediaObject/73142189-aeca-4f65-8977-d769c91e2573?height=auto&width=600&croppingPoint=&version=1&type=png",Al Arabiya Business
-https://live.alarabiya.net/alarabiapublish/aswaaq.smil/playlist.m3u8
-
-#  🟠 .... - Group = .... - Country = ....
-#EXTINF:-1 group-title="🌍 Others" tvg-id="Al Jazeera" tvg-name="Al Jazeera" tvg-logo="https://i.imgur.com/7bRVpnu.png",Al Jazeera
-https://live-hls-apps-aja-fa.getaj.net/AJA/01.m3u8
-
-#  🟠 .... - Group = .... - Country = ....
-#EXTINF:-1 group-title="🌍 Others" tvg-id="Al Jazeera 2" tvg-name="Al Jazeera 2" tvg-logo="https://i.imgur.com/miq8O1Q.png",Al Jazeera 2
-https://live-hls-web-aja2-gcp.thehlive.com/AJA2/index.m3u8
-
-#  🟠 .... - Group = .... - Country = ....
-#EXTINF:-1 group-title="🌍 Others" tvg-id="Al Jazeera Documentary" tvg-name="Al Jazeera Documentary" tvg-logo="https://i.imgur.com/5dNJlLo.png",Al Jazeera Documentar
-https://live-hls-apps-ajd-fa.getaj.net/AJD/index.m3u8
-
-#  🟠 .... - Group = .... - Country = ....
-#EXTINF:-1 group-title="🌍 Others" tvg-id="BBC Arabic" tvg-name="BBC Arabic" tvg-logo="https://i.imgur.com/ScyTG6P.png",BBC Arabic
-https://vs-cmaf-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2.mpd
-
-#  🟠 .... - Group = .... - Country = ....
-#EXTINF:-1 tvg-id="AlJazeeraMubasher.qa@SD" tvg-logo="https://i.imgur.com/X80DQvF.png" group-title="News",Al Jazeera Mubasher
-https://live-hls-apps-ajm-fa.getaj.net/AJM/index.m3u8
-
-#  🟠 .... - Group = .... - Country = ....
-#EXTINF:-1 tvg-id="AlJazeeraMubasher24.qa@SD" tvg-logo="https://i.imgur.com/LMCcIZ2.png" group-title="News",Al Jazeera Mubasher 24
-https://live-hls-apps-ajm24-fa.getaj.net/AJM24/index.m3u8
-
-#  🟠 .... - Group = .... - Country = ....
-#EXTINF:-1 tvg-id="SkyNewsArabia.ae@HD" tvg-logo="https://i.imgur.com/SvjU4h6.png" group-title="News",Sky News Arabia
-https://live-stream.skynewsarabia.com/c-horizontal-channel/horizontal-stream/index.m3u8
-
-#  🟠 .... - Group = .... - Country = ....
-#EXTINF:-1 tvg-id="DW.de@Arabic" tvg-logo="https://i.imgur.com/8MRNFb9.png" group-title="News",DW Arabic
-https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/master.m3u8
-
-#  🟠 .... - Group = .... - Country = ....
-#EXTINF:-1 tvg-id="CNBCArabiya.ae@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/CNBC_Arabia_2025.svg/960px-CNBC_Arabia_2025.svg.png" group-title="Business",CNBC Arabiya
-https://cnbc-live.akamaized.net/cnbc/master.m3u8
-
-#  🟠 .... - Group = .... - Country = ....
-#EXTINF:-1 tvg-id="RTArabic.ru@SD" tvg-logo="https://i.imgur.com/G8vGrn1.png" group-title="News",RT Arabic
-https://rt-arb.rttv.com/dvr/rtarab/playlist.m3u8
-
-
+# 🟠
+#EXTINF:-1 tvg-country="GB" group-title="🇬🇧 UK" tvg-chno="3" tvg-name="BBC One" tvg-name="BBC One" tvg-id="BBC One" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/500px-BBC_One_logo_2021.svg.png",BBC One
+https://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_yorks/iptv_hd_abr_v1.m3u8
+# 🟠
+#EXTINF:-1 tvg-country="GB" group-title="🇬🇧 UK" tvg-chno="4" tvg-name="BBC Two" tvg-name="BBC Two" tvg-id="BBC Two" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/BBC_Two_logo_2021.svg/500px-BBC_Two_logo_2021.svg.png",BBC Two
+https://vs-hls-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_two_hd/iptv_hd_abr_v1.m3u8
+# 🟠
+#EXTINF:-1 tvg-country="GB" group-title="🇬🇧 UK" tvg-chno="5" tvg-name="BBC Three" tvg-name="BBC Three" tvg-id="BBC Three" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/BBC_Three_2022.svg/500px-BBC_Three_2022.svg.png",BBC Three
+https://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_three_hd/iptv_hd_abr_v1.m3u8
+# 🟠
+#EXTINF:-1 tvg-country="GB" group-title="🇬🇧 UK" tvg-chno="6" tvg-name="BBC Four" tvg-name="BBC Four" tvg-id="BBC Four" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/BBC_Four_logo_2021.svg/500px-BBC_Four_logo_2021.svg.png",BBC Four
+https://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_four_hd/iptv_hd_abr_v1.m3u8
+# 🟠
+#EXTINF:-1 tvg-country="GB" group-title="🇬🇧 UK" tvg-chno="7" tvg-name="BBC Scotland" tvg-id="BBC Scotland" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/BBC_Scotland_2021_%28channel%29.svg/500px-BBC_Scotland_2021_%28channel%29.svg.png",BC Scotland
+https://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_scotland_hd/pc_hd_abr_v2.m3u8
+# 🟠
+#EXTINF:-1 tvg-country="GB" group-title="🇬🇧 UK" tvg-chno="8" tvg-name="BBC Earth" tvg-id="BBC Earth" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR3200001NQ_20250923T010333SQUARE.png",BC Earth
+https://jmp2.uk/stvp-FR3200001NQ
+# 🟠
+#EXTINF:-1 tvg-country="GB" group-title="🇬🇧 UK" tvg-chno="9" tvg-name="Channel 5" tvg-id="Channel 5" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cb/Channel_5_%28UK%29_2016.svg/500px-Channel_5_%28UK%29_2016.svg.png",Channel 5
+http://193.46.58.239:8080/Channel5/index.m3u8
+# 🟠
+#EXTINF:-1 tvg-country="GB" group-title="🇬🇧 UK" tvg-chno="10" tvg-name="Sky News" tvg-id="Sky News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Sky_News_logo.svg/960px-Sky_News_logo.svg.png",Sky News
+https://linear021-gb-hls1-prd-ak.cdn.skycdp.com/Content/HLS_001_hd/Live/channel(skynews)/index_mob.m3u8
+# 🟠
+#EXTINF:-1 tvg-country="GB" group-title="🇬🇧 UK" tvg-chno="11" tvg-name="GB News" tvg-id="GB News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/35/GB_News_Logo.svg/500px-GB_News_Logo.svg.png",GB News
+https://live-gbnews.simplestreamcdn.com/live5/gbnews/bitrate1.isml/manifest.m3u8
+# 🟠
+#EXTINF:-1 tvg-country="GB" group-title="🇬🇧 UK" tvg-chno="12" tvg-name="True Crime" tvg-id="True Crime" tvg-logo="https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/TV/True-Crime-UK.png",True Crime 
+https://b6cca454.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9UcnVlQ3JpbWVVS2Zyb21DQlNSZWFsaXR5X0hMUw/playlist.m3u8
+# 🟠
+#EXTINF:-1 tvg-country="GB" group-title="🇬🇧 UK" tvg-chno="13" tvg-name="NHK World Japan" tvg-id="NHK World Japan" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/NHK_World-Japan_TV.svg/500px-NHK_World-Japan_TV.svg.png",NHK World Japan
+https://master.nhkworld.jp/nhkworld-tv/playlist/live.m3u8
+# 🟠
+#EXTINF:-1 tvg-country="GB" group-title="🇬🇧 UK" tvg-chno="14" tvg-name="TRT World" tvg-id="TRT World" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/TRT_World.svg/500px-TRT_World.svg.png",TRT World
+https://dash2.antik.sk/live/test_trt_world_atktv/playlist.m3u8
+# 🟠
+#EXTINF:-1 tvg-country="GB" group-title="🇬🇧 UK" tvg-chno="15" tvg-name="Bloomberg TV UK" tvg-id="Bloomberg TV UK" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1074.png",Bloomberg TV UK
+https://bloomberg.com/media-manifest/streams/eu.m3u8
+# 🟠
+#EXTINF:-1 tvg-country="GB" group-title="🇬🇧 UK" tvg-chno="16" tvg-name="France 24 UK" tvg-id="France 24 UK" tvg-logo="https://i.imgur.com/61MSiq9.png",France 24 UK
+https://www.youtube.com/c/france24english/live
 
 # ======= 🎵 Rotana Group =======
 # 🟠
@@ -227,7 +128,6 @@ https://rotana.hibridcdn.net/rotananet/khaleejiya_net-7Y83PP5adWixDF93/playlist.
 # 🟠
 #EXTINF:-1 tvg-country="EG" group-title="Rotana Group"   tvg-chno="8" tvg-name="Rotana Music" tvg-id="Rotana Music" tvg-logo="https://i.imgur.com/2zFQbQi.png",Rotana Music
 https://rotana.hibridcdn.net/rotananet/music_net-7Y83PP5adWixDF93/playlist.m3u8
-
 
 # ======= MBC Group =======
 # 🟢 
@@ -267,72 +167,73 @@ https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr/956eac069c78a35d4724
 #EXTINF:-1 tvg-country="AE" group-title="MBC Group"   tvg-chno="12" tvg-name="MBC Masr 2" tvg-name="MBC Masr 2" tvg-id="MBC Masr 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/53/MBC_Masr_2_Logo.svg",MBC Masr 2
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr-2/754931856515075b0aabf0e583495c68/index.m3u8
 
-
 # ======= 🇸🇦 KSA =======
 # 🟠
 #EXTINF:-1 tvg-country="SA" group-title="🇸🇦 KSA" tvg-chno="1" tvg-name="Al Quran Al Kareem TV" tvg-id="Al Quran Al Kareem TV" tvg-logo="https://i.imgur.com/A2fJysM.png",Al Quran Al Kareem TV
 https://al-ekhbaria-prod-dub.shahid.net/out/v1/9885cab0a3ec4008b53bae57a27ca76b/index.m3u8
-# 🟠
+# 🟢
 #EXTINF:-1 tvg-country="SA" group-title="🇸🇦 KSA" tvg-chno="2" tvg-name="Al Sunnah Al Nabawiyah TV" tvg-id="Al Sunnah Al Nabawiyah TV" tvg-logo="https://i.imgur.com/S6LcTJv.png",Al Sunnah Al Nabawiyah TV
 http://m.live.net.sa:1935/live/sunnah/gmswf.m3u8
 # 🟠
 #EXTINF:-1 tvg-country="SA" group-title="🇸🇦 KSA" tvg-chno="3" tvg-name="Al Saudiya" tvg-id="Al Saudiya" tvg-logo="https://i.imgur.com/GRQTndk.png",Al Saudiya
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-saudi-tv/2ad66056b51fd8c1b624854623112e43/index.m3u8
-# 🟠
+# 🟢
 #EXTINF:-1 tvg-country="SA" group-title="🇸🇦 KSA" tvg-chno="4" tvg-name="Al Saudiya Alaan" tvg-id="Al Saudiya Alaan" tvg-logo="https://i.imgur.com/sEOjApe.png",Al Saudiya Alaan
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-ksa-now/71ed3aa814c643306c0a8bc4fcc7d17f/index.m3u8
-# 🟠
+# 🟢
 #EXTINF:-1 tvg-country="SA" group-title="🇸🇦 KSA" tvg-chno="5" tvg-name="SBC Saudi Arabia" tvg-id="SBC Saudi Arabia" tvg-logo="https://i.imgur.com/9JSQglj.png",SBC Saudi Arabia
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-sbc/90e09c0c28db26435799b4a14892a167/index.m3u8
-
-
-
-
-
-# ======= SPORT =======
 # 🟠
-#EXTINF:-1 tvg-id="Eurosport3601.fr" tvg-logo="https://thumb.canalplus.pro/http/unsafe/%7BresolutionXY%7D/filters:quality(%7BimageQualityPercentage%7D)/canalplus-cdn.canal-plus.io/p1/channel/635/canal-ouah/CHN43FB/CHN43FB_635_20220110" group-title="Sport",EUROSPORT360 1
-https://raw.githubusercontent.com/schumijo/iptv/main/playlists/lequipe/eurosport360-1.m3u8
-
+#EXTINF:-1 tvg-country="SA" group-title="🇸🇦 KSA" tvg-chno="6" tvg-name="Sharjah TV" tvg-id="Sharjah TV" tvg-logo="https://i.imgur.com/Oz2bPOt.png",Sharjah TV
+https://live.kwikmotion.com/smc1live/smc1tv.smil/playlist.m3u8
 # 🟠
-#EXTINF:-1 tvg-id="Eurosport3602.fr" tvg-logo="https://thumb.canalplus.pro/http/unsafe/%7BresolutionXY%7D/filters:quality(%7BimageQualityPercentage%7D)/canalplus-cdn.canal-plus.io/p1/channel/635/canal-ouah/CHN43FB/CHN43FB_635_20220110" group-title="Sport",EUROSPORT360 2
-https://raw.githubusercontent.com/schumijo/iptv/main/playlists/lequipe/eurosport360-2.m3u8
+#EXTINF:-1 tvg-country="SA" group-title="🇸🇦 KSA" tvg-chno="7" tvg-name="Sharjah TV 2" tvg-id="Sharjah TV 2" tvg-logo="https://i.imgur.com/Wd3Xvd1.png",Sharjah TV 2
+https://svs.itworkscdn.net/smc2live/smc2tv.smil/playlist.m3u8
 
+# ======= Arabic News =======
 # 🟠
-#EXTINF:-1 tvg-id="Eurosport3603.fr" tvg-logo="https://thumb.canalplus.pro/http/unsafe/%7BresolutionXY%7D/filters:quality(%7BimageQualityPercentage%7D)/canalplus-cdn.canal-plus.io/p1/channel/635/canal-ouah/CHN43FB/CHN43FB_635_20220110" group-title="Sport",EUROSPORT360 3
-https://raw.githubusercontent.com/schumijo/iptv/main/playlists/lequipe/eurosport360-3.m3u8
+#EXTINF:-1 tvg-country="QA" group-title="Arabic News" tvg-chno="1" tvg-name="Al Jazeera" tvg-id="Al Jazeera" tvg-logo="https://i.imgur.com/7bRVpnu.png",Al Jazeera
+https://live-hls-apps-aja-fa.getaj.net/AJA/01.m3u8
+# 🟠
+#EXTINF:-1 tvg-country="QA" group-title="Arabic News" tvg-chno="2" tvg-name="Al Jazeera 2" tvg-id="Al Jazeera 2" tvg-logo="https://i.imgur.com/miq8O1Q.png",Al Jazeera 2
+https://live-hls-web-aja2-gcp.thehlive.com/AJA2/index.m3u8
+# 🟠
+#EXTINF:-1 tvg-country="QA" group-title="Arabic News" tvg-chno="3" tvg-name="Al Jazeera Mubasher" tvg-id="Al Jazeera Mubasher" tvg-logo="https://i.imgur.com/X80DQvF.png",Al Jazeera Mubasher
+https://live-hls-apps-ajm-fa.getaj.net/AJM/index.m3u8
+# 🟠
+#EXTINF:-1 tvg-country="QA" group-title="Arabic News" tvg-chno="4" tvg-name="Al Jazeera Mubasher 24" tvg-id="Al Jazeera Mubasher 24" tvg-logo="https://i.imgur.com/LMCcIZ2.png",Al Jazeera Mubasher 24
+https://live-hls-apps-ajm24-fa.getaj.net/AJM24/index.m3u8
+# 🟠
+#EXTINF:-1 tvg-country="QA" group-title="Arabic News" tvg-chno="5" tvg-name="Al Jazeera Documentary" tvg-id="Al Jazeera Documentary" tvg-logo="https://i.imgur.com/LMCcIZ2.png",Al Jazeera Documentary
+https://live-hls-apps-ajd-fa.getaj.net/AJD/index.m3u8
+# 🟠
+#EXTINF:-1 tvg-country="QA" group-title="Arabic News" tvg-chno="6" tvg-name="Al Arabiya" tvg-id="Al Arabiya" tvg-logo="https://i.imgur.com/NXFkYFj.png",Al Arabiya
+https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
+# 🟠
+#EXTINF:-1 tvg-country="QA" group-title="Arabic News" tvg-chno="7" tvg-name="Al Arabiya Business" tvg-id="Al Arabiya Business" tvg-logo="https://shahid.mbc.net/mediaObject/73142189-aeca-4f65-8977-d769c91e2573?height=auto&width=600&croppingPoint=&version=1&type=png",Al Arabiya Business
+https://live.alarabiya.net/alarabiapublish/aswaaq.smil/playlist.m3u8
+# 🟠
+#EXTINF:-1 tvg-country="QA" group-title="Arabic News" tvg-chno="8" tvg-name="BBC Arabic" tvg-id="BBC Arabic" tvg-logo="https://i.imgur.com/ScyTG6P.png",BBC Arabic
+https://vs-cmaf-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2.mpd
+# 🟠
+#EXTINF:-1 tvg-country="QA" group-title="Arabic News" tvg-chno="9" tvg-name="SkyNews Arabia" tvg-id="SkyNews Arabia" tvg-logo="https://i.imgur.com/SvjU4h6.png",SkyNews Arabia
+https://live-stream.skynewsarabia.com/c-horizontal-channel/horizontal-stream/index.m3u8
+# 🟠
+#EXTINF:-1 tvg-country="QA" group-title="Arabic News" tvg-chno="10" tvg-name="CNBC Arabiya" tvg-id="CNBC Arabiya" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/CNBC_Arabia_2025.svg/960px-CNBC_Arabia_2025.svg.png",CNBC Arabiya
+https://cnbc-live.akamaized.net/cnbc/master.m3u8
+# 🟠
+#EXTINF:-1 tvg-country="QA" group-title="Arabic News" tvg-chno="11" tvg-name="RT Arabic" tvg-id="RT Arabic" tvg-logo="https://i.imgur.com/G8vGrn1.png",RT Arabic
+https://rt-arb.rttv.com/dvr/rtarab/playlist.m3u8
+# 🟠
+#EXTINF:-1 tvg-country="QA" group-title="Arabic News" tvg-chno="12" tvg-name="DW Arabic" tvg-id="DW Arabic" tvg-logo="https://i.imgur.com/8MRNFb9.png",DW Arabic
+https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/master.m3u8
+# 🟠
+#EXTINF:-1 tvg-country="QA" group-title="Arabic News" tvg-chno="13" tvg-name="France24 Arabic" tvg-id="France24 Arabic" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_FRANCE_24/images/LOGO_HD/image.png",France24 Arabic
+https://live.france24.com/hls/live/2037222-b/F24_AR_HI_HLS/master_5000.m3u8
 
+# ======= 🌍 Others =======
 # 🟠
-#EXTINF:-1 tvg-id="Eurosport3604.fr" tvg-logo="https://thumb.canalplus.pro/http/unsafe/%7BresolutionXY%7D/filters:quality(%7BimageQualityPercentage%7D)/canalplus-cdn.canal-plus.io/p1/channel/635/canal-ouah/CHN43FB/CHN43FB_635_20220110" group-title="Sport",EUROSPORT360 4
-https://raw.githubusercontent.com/schumijo/iptv/main/playlists/lequipe/eurosport360-4.m3u8
 
-# 🟠
-#EXTINF:-1 tvg-id="Eurosport3605.fr" tvg-logo="https://thumb.canalplus.pro/http/unsafe/%7BresolutionXY%7D/filters:quality(%7BimageQualityPercentage%7D)/canalplus-cdn.canal-plus.io/p1/channel/635/canal-ouah/CHN43FB/CHN43FB_635_20220110" group-title="Sport",EUROSPORT360 5
-https://raw.githubusercontent.com/schumijo/iptv/main/playlists/lequipe/eurosport360-5.m3u8
-
-# 🟠
-#EXTINF:-1 tvg-id="Eurosport3606.fr" tvg-logo="https://thumb.canalplus.pro/http/unsafe/%7BresolutionXY%7D/filters:quality(%7BimageQualityPercentage%7D)/canalplus-cdn.canal-plus.io/p1/channel/635/canal-ouah/CHN43FB/CHN43FB_635_20220110" group-title="Sport",EUROSPORT360 6
-https://raw.githubusercontent.com/schumijo/iptv/main/playlists/lequipe/eurosport360-6.m3u8
-
-# 🟠
-#EXTINF:-1 tvg-id="Alkass One" tvg-logo="https://i.imgur.com/10mmlha.png" group-title="Sport",Alkass One
-https://liveeu-gcp.alkassdigital.net/alkass1-p/main.m3u8
-
-# 🟠
-#EXTINF:-1 tvg-id="Alkass Two" tvg-logo="https://i.imgur.com/8w61kFX.png" group-title="Sport",Alkass Two
-https://liveeu-gcp.alkassdigital.net/alkass2-p/main.m3u8
-
-# 🟠
-#EXTINF:-1 tvg-id="Alkass Three" tvg-logo="https://i.imgur.com/d57BdFh.png" group-title="Sport",Alkass Three
-https://liveeu-gcp.alkassdigital.net/alkass3-p/main.m3u8
-
-# 🟠
-#EXTINF:-1 tvg-id="Alkass Four" tvg-logo="https://i.imgur.com/iDL65Wu.png" group-title="Sport",Alkass Four
-https://liveeu-gcp.alkassdigital.net/alkass4-p/main.m3u8
-
-# 🟠
-#EXTINF:-1 tvg-id="AlkassSix" tvg-logo="https://i.imgur.com/CrPSPSC.png" group-title="Sport",Alkass Six
-https://liveeu-gcp.alkassdigital.net/alkass6-p/main.m3u8
 
 # ======= 🇪🇺 EUROPE =======
 # 🟠
