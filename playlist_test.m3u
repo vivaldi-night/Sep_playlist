@@ -1,8 +1,23 @@
 #EXTM3U
 
 # 🟠
-#EXTINF:-1 tvg-country="MA" group-title="🇲🇦 Maroc" tvg-name="2M Maroc",2M Maroc
-http://www.elahmad.com/tv/m3u8/elahmad_jyrh8.m3u8?id=maroc2
+#EXTINF:-1 tvg-country="MA" group-title="🇲🇦 Maroc" tvg-name="2M Maroc" tvg-id="2M Maroc",2M Maroc
+http://185.9.2.18/chid_218/index.m3u8
 
-#EXTINF:-1,TF1 HD
-http://tv.sigma-iptv.net:7000/live/lestulupes/icceTgfhaB/5713.m3u8
+# 🟠
+#EXTINF:-1 tvg-country="MA" group-title="🇲🇦 Maroc" tvg-name="2M Monde" tvg-id="2M Maroc",2M Monde
+#EXTVLCOPT:http-referrer=http://www.radio2m.ma/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
+https://cdn-globecast.akamaized.net/live/eds/2m_monde/hls_video_ts_tuhawxpiemz257adfc/2m_monde.m3u8
+
+# 🟠
+#EXTINF:-1 tvg-country="MA" group-title="🇲🇦 Maroc" tvg-name="2M Monde +1",2M Monde +1
+https://d2qh3gh0k5vp3v.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-n6pess5lwbghr/2M_ES.m3u8
+
+# 🟠
+#EXTINF:-1 tvg-country="MA" group-title="🇲🇦 Maroc" tvg-name="Al Maghribia" tvg-logo="https://i.imgur.com/7GaahYh.png",Al Maghribia
+http://185.9.2.18/chid_205/index.m3u8
+
+# 🟠
+#EXTINF:-1 tvg-country="MA" group-title="🇲🇦 Maroc" tvg-name="Arryadia" tvg-logo="https://i.imgur.com/XjzK3gZ.png",Arryadia
+http://149.100.11.252:8000/play/a065/index.m3u8
