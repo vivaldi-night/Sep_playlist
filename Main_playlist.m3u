@@ -64,16 +64,16 @@ https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 #EXTINF:-1 tvg-country="US" group-title="🇺🇸 USA" tvg-chno="12" tvg-name="NASA TV Media" tvg-id="NASA TV Media" tvg-logo="https://i.imgur.com/rmyfoOI.png",NASA TV Media
 https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
 # 🟢
-#EXTINF:-1 tvg-country="US" group-title="🇺🇸 USA" tvg-chno="13" tvg-name="ABC" tvg-id="ABC",ABC
+#EXTINF:-1 tvg-country="US" group-title="🇺🇸 USA" tvg-chno="13" tvg-name="ABC" tvg-id="ABC" tvg-logo="https://i.imgur.com/pvXZ8DX.png",ABC
 http://190.11.225.124:5000/live/abc_hd/playlist.m3u8
 # 🟢
-#EXTINF:-1 tvg-country="US" group-title="🇺🇸 USA" tvg-chno="14" tvg-name="AMC" tvg-id="AMC",AMC
+#EXTINF:-1 tvg-country="US" group-title="🇺🇸 USA" tvg-chno="14" tvg-name="AMC" tvg-id="AMC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/960px-AMC_logo_2019.svg.png",AMC
 http://23.239.31.26:8989/amc/index.m3u8
 # 🟢
-#EXTINF:-1 tvg-country="US" group-title="🇺🇸 USA" tvg-chno="15" tvg-name="AE!" tvg-id="E!",E!
+#EXTINF:-1 tvg-country="US" group-title="🇺🇸 USA" tvg-chno="15" tvg-name="AE!" tvg-id="E!" tvg-logo="https://i.imgur.com/TWFDkap.png",E!
 http://23.237.104.106:8080/USA_E/index.m3u8
 # 🟢
-#EXTINF:-1 tvg-country="US" group-title="🇺🇸 USA" tvg-chno="16" tvg-name="NBC" tvg-id="NBC",NBC
+#EXTINF:-1 tvg-country="US" group-title="🇺🇸 USA" tvg-chno="16" tvg-name="NBC" tvg-id="NBC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/960px-NBC_logo_2022_%28vertical%29.svg.png",NBC
 http://170.254.17.2/NBC/index.m3u8
 
 # ======= 🇬🇧 UK =======
@@ -128,10 +128,10 @@ https://www.youtube.com/c/france24english/live
 #EXTINF:-1 tvg-country="GB" group-title="🇬🇧 UK" tvg-chno="17" tvg-name="CNBC Europe" tvg-id="CNBC Europe" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1088.png",CNBC Europe
 https://amg01079-nbcuuk-amg01079c1-samsung-es-1261.playouts.now.amagi.tv/playlist/amg01079-nbcuukfast-cnbcpe-samsunges/playlist.m3u8
 # 🟢
-#EXTINF:-1 tvg-country="GB" group-title="🇬🇧 UK" tvg-chno="17" tvg-name="BBC News" tvg-id="BBC News",BBC News
+#EXTINF:-1 tvg-country="GB" group-title="🇬🇧 UK" tvg-chno="17" tvg-name="BBC News" tvg-id="BBC News" tvg-logo="https://dtil.tmsimg.com/assets/s158142_ld_h15_aa.png?lock=720x540",BBC News
 https://xemzi.short.gy/1000015
 # 🟢
-#EXTINF:-1 tvg-country="GB" group-title="🇬🇧 UK" tvg-chno="18" tvg-name="MTV Global" tvg-id="MTV Global",MTV Global
+#EXTINF:-1 tvg-country="GB" group-title="🇬🇧 UK" tvg-chno="18" tvg-name="MTV Global" tvg-id="MTV Global" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/MTV_2021_%28brand_version%29.svg",MTV Global
 http://dvr2.kablova.tv/MTV/index.m3u8
 
 # ======= 🎵 Rotana Group =======
