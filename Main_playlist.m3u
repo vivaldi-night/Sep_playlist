@@ -36,7 +36,7 @@ https://cdn.live.easybroadcast.io/ts_corp/73_aloula_w1dqfwm/playlist_dvr.m3u8
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 # 🟠
 #EXTINF:-1 tvg-country="US" group-title="🇺🇸 USA" tvg-chno="2" tvg-name="CNBC" tvg-id="CNBC" tvg-logo="https://i.imgur.com/BTasyOy.png",CNBC
-https://www.youtube.com/c/CNBC/live
+https://amg01079-nbcuuk-amg01079c2-samsung-gb-1258.playouts.now.amagi.tv/playlist.m3u8
 # 🟠
 #EXTINF:-1 tvg-country="US" group-title="🇺🇸 USA" tvg-chno="3" tvg-name="CBS News" tvg-id="CBS News" tvg-logo="https://i.imgur.com/nki2HDQ.png",CBS News
 https://cbsnews.akamaized.net/hls/live/2020607/cbsnlineup_8/master.m3u8
@@ -209,7 +209,7 @@ https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr/956eac069c78a35d4724
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr-2/754931856515075b0aabf0e583495c68/index.m3u8
 
 # ======= 🇸🇦 KSA =======
-# 🟠
+# 🟢
 #EXTINF:-1 tvg-country="SA" group-title="🇸🇦 KSA" tvg-chno="1" tvg-name="Al Quran Al Kareem TV" tvg-id="Al Quran Al Kareem TV" tvg-logo="https://i.imgur.com/A2fJysM.png",Al Quran Al Kareem TV
 https://cdn-globecast.akamaized.net/live/eds/saudi_quran/hls_roku/index.m3u8
 # 🟢
@@ -363,7 +363,7 @@ https://artesimulcast.akamaized.net/hls/live/2031003/artelive_fr/index.m3u8
 #EXTINF:-1 tvg-country="AE" group-title="🌍 Others" tvg-chno="1" tvg-name="Dubai TV International" tvg-id="Dubai TV International" tvg-logo="https://i.imgur.com/UMmbyHv.png",Dubai TV International
 http://185.9.2.18/chid_139/index.m3u8
 
-# 🟠
+# 🟢
 #EXTINF:-1 tvg-country="AE" group-title="🌍 Others" tvg-chno="2" tvg-name="Al Arabiya English" tvg-id="Al Arabiya English" tvg-logo="https://english.alarabiya.net/.resources/aa-fe-templating/webresources/dist/assets/gfx/logo/en-night-logo.svg",Al Arabiya English
 https://live.alarabiya.net/alarabiapublish/english/chunks_dvr.m3u8
 
