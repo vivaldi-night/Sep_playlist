@@ -207,11 +207,11 @@ https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr-2/754931856515075b0a
 # ======= 🇸🇦 KSA =======
 # 🟠
 #EXTINF:-1 tvg-country="SA" group-title="🇸🇦 KSA" tvg-chno="1" tvg-name="Al Quran Al Kareem TV" tvg-id="Al Quran Al Kareem TV" tvg-logo="https://i.imgur.com/A2fJysM.png",Al Quran Al Kareem TV
-http://m.live.net.sa:1935/live/quran/playlist.m3u8
+https://cdn-globecast.akamaized.net/live/eds/saudi_quran/hls_roku/index.m3u8
 # 🟢
 #EXTINF:-1 tvg-country="SA" group-title="🇸🇦 KSA" tvg-chno="2" tvg-name="Al Sunnah Al Nabawiyah TV" tvg-id="Al Sunnah Al Nabawiyah TV" tvg-logo="https://i.imgur.com/S6LcTJv.png",Al Sunnah Al Nabawiyah TV
 http://m.live.net.sa:1935/live/sunnah/gmswf.m3u8
-# 🟠
+# 🟢
 #EXTINF:-1 tvg-country="SA" group-title="🇸🇦 KSA" tvg-chno="3" tvg-name="Al Saudiya" tvg-id="Al Saudiya" tvg-logo="https://i.imgur.com/GRQTndk.png",Al Saudiya
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-saudi-tv/2ad66056b51fd8c1b624854623112e43/index.m3u8
 # 🟢
@@ -220,10 +220,10 @@ https://shd-gcp-live.edgenextcdn.net/live/bitmovin-ksa-now/71ed3aa814c643306c0a8
 # 🟢
 #EXTINF:-1 tvg-country="SA" group-title="🇸🇦 KSA" tvg-chno="5" tvg-name="SBC Saudi Arabia" tvg-id="SBC Saudi Arabia" tvg-logo="https://i.imgur.com/9JSQglj.png",SBC Saudi Arabia
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-sbc/90e09c0c28db26435799b4a14892a167/index.m3u8
-# 🟠
+# 🟢
 #EXTINF:-1 tvg-country="SA" group-title="🇸🇦 KSA" tvg-chno="6" tvg-name="Sharjah TV" tvg-id="Sharjah TV" tvg-logo="https://i.imgur.com/Oz2bPOt.png",Sharjah TV
 https://live.kwikmotion.com/smc1live/smc1tv.smil/playlist.m3u8
-# 🟠
+# 🟢
 #EXTINF:-1 tvg-country="SA" group-title="🇸🇦 KSA" tvg-chno="7" tvg-name="Sharjah TV 2" tvg-id="Sharjah TV 2" tvg-logo="https://i.imgur.com/Wd3Xvd1.png",Sharjah TV 2
 https://svs.itworkscdn.net/smc2live/smc2tv.smil/playlist.m3u8
 
