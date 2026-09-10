@@ -140,25 +140,32 @@ http://dvr2.kablova.tv/MTV/index.m3u8
 https://rotana.hibridcdn.net/rotananet/cinemamasr_net-7Y83PP5adWixDF93/playlist.m3u8
 # 🟠
 #EXTINF:-1 tvg-country="EG" group-title="Rotana Group"   tvg-chno="2" tvg-name="Rotana Cinema KSA" tvg-id="Rotana Cinema KSA" tvg-logo="https://i.imgur.com/pGgp38I.png",Rotana Cinema KSA
+#EXTVLCOPT:http-referrer=https://rotana.net/
 https://rotana.hibridcdn.net/rotananet/cinema_net-7Y83PP5adWixDF93/playlist.m3u8
 # 🟠
 #EXTINF:-1 tvg-country="EG" group-title="Rotana Group"   tvg-chno="3" tvg-name="Rotana Classic" tvg-id="Rotana Classic" tvg-logo="https://i.imgur.com/pMMUvkt.png",Rotana Classic
+#EXTVLCOPT:http-referrer=https://rotana.net/
 https://rotana.hibridcdn.net/rotananet/classical_net-7Y83PP5adWixDF93/playlist.m3u8
 # link2 : https://bcovlive-a.akamaihd.net/0debf5648e584e5fb795c3611c5c0252/eu-central-1/6057955906001/playlist.m3u8
 # 🟠
 #EXTINF:-1 tvg-country="EG" group-title="Rotana Group"   tvg-chno="4" tvg-name="Rotana Clip" tvg-id="Rotana Clip" tvg-logo="https://i.imgur.com/nhREk0o.png",Rotana Clip
+#EXTVLCOPT:http-referrer=https://rotana.net/
 https://rotana.hibridcdn.net/rotananet/clip_net-7Y83PP5adWixDF93/playlist.m3u8
 # 🟠
 #EXTINF:-1 tvg-country="EG" group-title="Rotana Group"   tvg-chno="5" tvg-name="Rotana Comedy" tvg-id="Rotana Comedy" tvg-logo="https://i.imgur.com/IlT8U6S.png",Rotana Comedy
+#EXTVLCOPT:http-referrer=https://rotana.net/
 https://rotana.hibridcdn.net/rotananet/comedy_net-7Y83PP5adWixDF93/playlist.m3u8
 # 🟠
 #EXTINF:-1 tvg-country="EG" group-title="Rotana Group"   tvg-chno="6" tvg-name="Rotana Drama" tvg-id="Rotana Drama" tvg-logo="https://i.imgur.com/btnhPjZ.png",Rotana Drama
+#EXTVLCOPT:http-referrer=https://rotana.net/
 https://rotana.hibridcdn.net/rotananet/drama_net-7Y83PP5adWixDF93/playlist.m3u8
 # 🟠
 #EXTINF:-1 tvg-country="EG" group-title="Rotana Group"   tvg-chno="7" tvg-name="Rotana Khalijia" tvg-id="Rotana Khalijia" tvg-logo="https://i.imgur.com/6HMluzv.png",Rotana Khalijia
+#EXTVLCOPT:http-referrer=https://rotana.net/
 https://rotana.hibridcdn.net/rotananet/khaleejiya_net-7Y83PP5adWixDF93/playlist.m3u8
 # 🟠
 #EXTINF:-1 tvg-country="EG" group-title="Rotana Group"   tvg-chno="8" tvg-name="Rotana Music" tvg-id="Rotana Music" tvg-logo="https://i.imgur.com/2zFQbQi.png",Rotana Music
+#EXTVLCOPT:http-referrer=https://rotana.net/
 https://rotana.hibridcdn.net/rotananet/music_net-7Y83PP5adWixDF93/playlist.m3u8
 
 # ======= MBC Group =======
@@ -282,7 +289,7 @@ https://raw.githubusercontent.com/schumijo/iptv/main/playlists/francetv/france3.
 https://raw.githubusercontent.com/schumijo/iptv/main/playlists/francetv/france4.m3u8
 # link2 : http://176.65.146.100:8047/play/a074/index.m3u8
 # 🟠
-#EXTINF:-1 tvg-country="FR" group-title="🇫🇷 France"  tvg-chno="6"    tvg-name="France 5" tvg-id="France 5"                  tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/france-5-fr.png",FRANCE 5
+#EXTINF:-1 tvg-country="FR" group-title="🇫🇷 France"  tvg-chno="6"    tvg-name="France 5" tvg-id="France 5" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/france-5-fr.png",FRANCE 5
 https://raw.githubusercontent.com/schumijo/iptv/main/playlists/francetv/france5.m3u8
 # link2 : http://145.239.5.177/305/index.m3u8
 # 🟠
@@ -344,17 +351,14 @@ https://ott.tv5monde.com/Content/HLS/Live/channel(info)/index.m3u8
 #EXTINF:-1 tvg-country="FR" group-title="🇫🇷 France" tvg-chno="24" tvg-name="TV5 Monde" tvg-id="TV5 Monde" tvg-logo="https://i.imgur.com/uPmwTo9.png",TV5 Monde
 https://ott.tv5monde.com/Content/HLS/Live/channel(fbs)/index.m3u8
 # 🟠
-#EXTINF:-1 tvg-country="FR" group-title="🇫🇷 France" tvg-chno="25" tvg-name="ARTE"  tvg-id="ARTE" vg-logo="https://i.imgur.com/ecXMjNl.png",ARTE
+#EXTINF:-1 tvg-country="FR" group-title="🇫🇷 France" tvg-chno="25" tvg-name="ARTE"  tvg-id="ARTE" tvg-logo="https://i.imgur.com/ecXMjNl.png",ARTE
 https://raw.githubusercontent.com/schumijo/iptv/main/playlists/francetv/arte.m3u8
 # link2 : https://artesimulcast.akamaized.net/hls/live/2031003/artelive_fr/index.m3u8
 
 # ======= 🌍 Others =======
 # 🟠
-#EXTINF:-1 tvg-country="AE" group-title="🌍 Others" tvg-chno="1" tvg-name="Dubai TV International" tvg-id="Dubai TV International" tvg-logo="",Dubai TV International
+#EXTINF:-1 tvg-country="AE" group-title="🌍 Others" tvg-chno="1" tvg-name="Dubai TV International" tvg-id="Dubai TV International" tvg-logo="https://i.imgur.com/UMmbyHv.png",Dubai TV International
 http://185.9.2.18/chid_139/index.m3u8
-
-
 
 # ======= 🇪🇺 EUROPE =======
 # 🟠
-
