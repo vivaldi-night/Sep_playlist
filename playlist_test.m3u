@@ -4,5 +4,5 @@
 #EXTINF:-1 tvg-country="MA" group-title="🇲🇦 Maroc" tvg-name="2M Maroc",2M Maroc
 http://www.elahmad.com/tv/m3u8/elahmad_jyrh8.m3u8?id=maroc2
 
-#EXTINF:0,|FR| TF1 HD
+#EXTINF:-1,TF1 HD
 http://tv.sigma-iptv.net:7000/live/lestulupes/icceTgfhaB/5713.m3u8
