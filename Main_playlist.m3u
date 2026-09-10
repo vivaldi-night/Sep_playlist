@@ -83,7 +83,7 @@ https://ott.tv5monde.com/Content/HLS/Live/channel(fbs)/index.m3u8
 https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8
 
 #  🟠 FRANCE TV SPORT - Group = France - Country = FRANCE
-#EXTINF:-1 group-title="Sport Thématique",FRANCE TV SPORT
+#EXTINF:-1 group-title="Sport",FRANCE TV SPORT
 https://raw.githubusercontent.com/schumijo/iptv/main/playlists/francetv/sport.m3u8
 
 #  🟠  - Group = France - Country = FRANCE
@@ -288,23 +288,23 @@ https://media2.streambrothers.com:1936/8122/8122/playlist.m3u8
 #   Al Kass
 # ==================================================
 #  🟠 .... - Group = .... - Country = ....
-#EXTINF:-1 tvg-id="Alkass One" tvg-logo="https://i.imgur.com/10mmlha.png" group-title="Sports",Alkass One
+#EXTINF:-1 tvg-id="Alkass One" tvg-logo="https://i.imgur.com/10mmlha.png" group-title="Sport",Alkass One
 https://liveeu-gcp.alkassdigital.net/alkass1-p/main.m3u8
 
 #  🟠 .... - Group = .... - Country = ....
-#EXTINF:-1 tvg-id="Alkass Two" tvg-logo="https://i.imgur.com/8w61kFX.png" group-title="Sports",Alkass Two
+#EXTINF:-1 tvg-id="Alkass Two" tvg-logo="https://i.imgur.com/8w61kFX.png" group-title="Sport",Alkass Two
 https://liveeu-gcp.alkassdigital.net/alkass2-p/main.m3u8
 
 #  🟠 .... - Group = .... - Country = ....
-#EXTINF:-1 tvg-id="Alkass Three" tvg-logo="https://i.imgur.com/d57BdFh.png" group-title="Sports",Alkass Three
+#EXTINF:-1 tvg-id="Alkass Three" tvg-logo="https://i.imgur.com/d57BdFh.png" group-title="Sport",Alkass Three
 https://liveeu-gcp.alkassdigital.net/alkass3-p/main.m3u8
 
 #  🟠 .... - Group = .... - Country = ....
-#EXTINF:-1 tvg-id="Alkass Four" tvg-logo="https://i.imgur.com/iDL65Wu.png" group-title="Sports",Alkass Four
+#EXTINF:-1 tvg-id="Alkass Four" tvg-logo="https://i.imgur.com/iDL65Wu.png" group-title="Sport",Alkass Four
 https://liveeu-gcp.alkassdigital.net/alkass4-p/main.m3u8
 
 #  🟠 .... - Group = .... - Country = ....
-#EXTINF:-1 tvg-id="AlkassSix" tvg-logo="https://i.imgur.com/CrPSPSC.png" group-title="Sports",Alkass Six
+#EXTINF:-1 tvg-id="AlkassSix" tvg-logo="https://i.imgur.com/CrPSPSC.png" group-title="Sport",Alkass Six
 https://liveeu-gcp.alkassdigital.net/alkass6-p/main.m3u8
 
 
@@ -314,27 +314,27 @@ https://liveeu-gcp.alkassdigital.net/alkass6-p/main.m3u8
 # ==================================================
 
 #  🟠 .... - Group = .... - Country = ....
-#EXTINF:-1 tvg-id="Eurosport3601.fr" tvg-logo="https://thumb.canalplus.pro/http/unsafe/%7BresolutionXY%7D/filters:quality(%7BimageQualityPercentage%7D)/canalplus-cdn.canal-plus.io/p1/channel/635/canal-ouah/CHN43FB/CHN43FB_635_20220110" group-title="Sport Multiplex",EUROSPORT360 1
+#EXTINF:-1 tvg-id="Eurosport3601.fr" tvg-logo="https://thumb.canalplus.pro/http/unsafe/%7BresolutionXY%7D/filters:quality(%7BimageQualityPercentage%7D)/canalplus-cdn.canal-plus.io/p1/channel/635/canal-ouah/CHN43FB/CHN43FB_635_20220110" group-title="Sport",EUROSPORT360 1
 https://raw.githubusercontent.com/schumijo/iptv/main/playlists/lequipe/eurosport360-1.m3u8
 
 #  🟠 .... - Group = .... - Country = ....
-#EXTINF:-1 tvg-id="Eurosport3602.fr" tvg-logo="https://thumb.canalplus.pro/http/unsafe/%7BresolutionXY%7D/filters:quality(%7BimageQualityPercentage%7D)/canalplus-cdn.canal-plus.io/p1/channel/635/canal-ouah/CHN43FB/CHN43FB_635_20220110" group-title="Sport Multiplex",EUROSPORT360 2
+#EXTINF:-1 tvg-id="Eurosport3602.fr" tvg-logo="https://thumb.canalplus.pro/http/unsafe/%7BresolutionXY%7D/filters:quality(%7BimageQualityPercentage%7D)/canalplus-cdn.canal-plus.io/p1/channel/635/canal-ouah/CHN43FB/CHN43FB_635_20220110" group-title="Sport",EUROSPORT360 2
 https://raw.githubusercontent.com/schumijo/iptv/main/playlists/lequipe/eurosport360-2.m3u8
 
 #  🟠 .... - Group = .... - Country = ....
-#EXTINF:-1 tvg-id="Eurosport3603.fr" tvg-logo="https://thumb.canalplus.pro/http/unsafe/%7BresolutionXY%7D/filters:quality(%7BimageQualityPercentage%7D)/canalplus-cdn.canal-plus.io/p1/channel/635/canal-ouah/CHN43FB/CHN43FB_635_20220110" group-title="Sport Multiplex",EUROSPORT360 3
+#EXTINF:-1 tvg-id="Eurosport3603.fr" tvg-logo="https://thumb.canalplus.pro/http/unsafe/%7BresolutionXY%7D/filters:quality(%7BimageQualityPercentage%7D)/canalplus-cdn.canal-plus.io/p1/channel/635/canal-ouah/CHN43FB/CHN43FB_635_20220110" group-title="Sport",EUROSPORT360 3
 https://raw.githubusercontent.com/schumijo/iptv/main/playlists/lequipe/eurosport360-3.m3u8
 
 #  🟠 .... - Group = .... - Country = ....
-#EXTINF:-1 tvg-id="Eurosport3604.fr" tvg-logo="https://thumb.canalplus.pro/http/unsafe/%7BresolutionXY%7D/filters:quality(%7BimageQualityPercentage%7D)/canalplus-cdn.canal-plus.io/p1/channel/635/canal-ouah/CHN43FB/CHN43FB_635_20220110" group-title="Sport Multiplex",EUROSPORT360 4
+#EXTINF:-1 tvg-id="Eurosport3604.fr" tvg-logo="https://thumb.canalplus.pro/http/unsafe/%7BresolutionXY%7D/filters:quality(%7BimageQualityPercentage%7D)/canalplus-cdn.canal-plus.io/p1/channel/635/canal-ouah/CHN43FB/CHN43FB_635_20220110" group-title="Sport",EUROSPORT360 4
 https://raw.githubusercontent.com/schumijo/iptv/main/playlists/lequipe/eurosport360-4.m3u8
 
 #  🟠 .... - Group = .... - Country = ....
-#EXTINF:-1 tvg-id="Eurosport3605.fr" tvg-logo="https://thumb.canalplus.pro/http/unsafe/%7BresolutionXY%7D/filters:quality(%7BimageQualityPercentage%7D)/canalplus-cdn.canal-plus.io/p1/channel/635/canal-ouah/CHN43FB/CHN43FB_635_20220110" group-title="Sport Multiplex",EUROSPORT360 5
+#EXTINF:-1 tvg-id="Eurosport3605.fr" tvg-logo="https://thumb.canalplus.pro/http/unsafe/%7BresolutionXY%7D/filters:quality(%7BimageQualityPercentage%7D)/canalplus-cdn.canal-plus.io/p1/channel/635/canal-ouah/CHN43FB/CHN43FB_635_20220110" group-title="Sport",EUROSPORT360 5
 https://raw.githubusercontent.com/schumijo/iptv/main/playlists/lequipe/eurosport360-5.m3u8
 
 #  🟠 .... - Group = .... - Country = ....
-#EXTINF:-1 tvg-id="Eurosport3606.fr" tvg-logo="https://thumb.canalplus.pro/http/unsafe/%7BresolutionXY%7D/filters:quality(%7BimageQualityPercentage%7D)/canalplus-cdn.canal-plus.io/p1/channel/635/canal-ouah/CHN43FB/CHN43FB_635_20220110" group-title="Sport Multiplex",EUROSPORT360 6
+#EXTINF:-1 tvg-id="Eurosport3606.fr" tvg-logo="https://thumb.canalplus.pro/http/unsafe/%7BresolutionXY%7D/filters:quality(%7BimageQualityPercentage%7D)/canalplus-cdn.canal-plus.io/p1/channel/635/canal-ouah/CHN43FB/CHN43FB_635_20220110" group-title="Sport",EUROSPORT360 6
 https://raw.githubusercontent.com/schumijo/iptv/main/playlists/lequipe/eurosport360-6.m3u8
 
 
